@@ -1,0 +1,3164 @@
+{
+  "projects" : [
+    {
+      "issues" : [
+        {
+          "summary" : "Größe des Anweisungs-Cache in Websphere 6 scripte einbauen"
+        },
+        {
+          "summary" : "Größe des Anweisungs-Cache in Websphere 6 scripte einbauen"
+        },
+        {
+          "summary" : "Bestellungen: Erweiterungen Server"
+        },
+        {
+          "summary" : "Bestellungen: Erweiterungen Client"
+        },
+        {
+          "summary" : "Erweiterung Bestellungen"
+        },
+        {
+          "summary" : "Migration Kontoüberträge (BENEFICIARY_ACCOUNT_NR)"
+        },
+        {
+          "summary" : "Anpassung für Kontoübertrag"
+        },
+        {
+          "summary" : "ESR-Teilnehmernummer 01-3041-2 von der CS ist nicht mehr im Verzeichnis"
+        },
+        {
+          "summary" : "Bei Verwendung der Begünstigtensuche dauert die Erfassung einer Zahlung massiv lange."
+        },
+        {
+          "summary" : "Kundenselektor wird eingeblendet, wenn für die Erfassung von Zahlungen die Eingabetaste vom Lesestift verwendet wird."
+        },
+        {
+          "summary" : "DTA: Beim Einliefern einer grossen DTA-Datei wird Allgem. Komm-Fehler ausgegeben DTA-Datei erhält Status Korrupt"
+        },
+        {
+          "summary" : "ANT build für backend Projekt"
+        },
+        {
+          "summary" : "Performance für PaymentServices.findBeneficiaries"
+        },
+        {
+          "summary" : "Bei Erstellung von Matrixbrief werden gewisse Felder unvollständig gedruckt"
+        },
+        {
+          "summary" : "Performanceoptimierung von createStocklmarketOrders"
+        },
+        {
+          "summary" : "Memoryleak in was1"
+        },
+        {
+          "summary" : "Publikation ändern"
+        },
+        {
+          "summary" : "Publikationen: Sprachunterstützung für automatische Formatierungen (z.B. Datum)"
+        },
+        {
+          "summary" : "Fehlermeldung (Kein Zugriff) beim Ausdruck aus e-banking - lokales Temp-Verzeichnis zeigt auf schreibgeschützen Bereich"
+        },
+        {
+          "summary" : "FK\/PK check führt zu FTS"
+        },
+        {
+          "summary" : "Falsche Einträge i.d. Tabelle SERVICE_HISTORY"
+        },
+        {
+          "summary" : "In der e-Postübersicht kann man die Spalte \"Typ\" nicht sortieren"
+        },
+        {
+          "summary" : "Fehler auf e-banking Testsystem beim Erstellen von Benutzern"
+        },
+        {
+          "summary" : "In der englischen Version gibt es 2 Bezeichnungen für Aktualisieren REFRESH und UPDATE"
+        },
+        {
+          "summary" : "Bei der Zusammenführung von neuen e-banking-Verträgen FL und ZH wird der Kunde nicht automatisch zugeteilt und die K-Rechte fehlen."
+        },
+        {
+          "summary" : "Wird beim Herunterladen von BESR-Daten auf dem Client ein Fehler ausgegeben, wird in der ESR-Tabelle das Retrieval_date gesetzt."
+        },
+        {
+          "summary" : "Beim Herunterladen der BESR-Daten wird Fehlermeldung ausgegeben ....kann nicht auf die Datei zugreifen......"
+        },
+        {
+          "summary" : "APF ebanking-seitig implementieren"
+        },
+        {
+          "summary" : "Berechtigungen für Kunden an einem Servicestamm werden nicht geladen"
+        },
+        {
+          "summary" : "HomeViewInfo search criteria (USER_ID)"
+        },
+        {
+          "summary" : "SocketException: Broken pipe"
+        },
+        {
+          "summary" : "NullPointerException in createMoneyMarketOrder service"
+        },
+        {
+          "summary" : "Listenauftrag mit 10 Aufträgen wird mit Meldung: Server Information: Ihr Auftrag konnte nicht bearbeitet werden....... abgebrochen"
+        },
+        {
+          "summary" : "DURATION für LogLoader"
+        },
+        {
+          "summary" : "Öffnen von Nachrichten mit Anhang: Ladevorgang wird nicht angezeigt."
+        },
+        {
+          "summary" : "Vermögensübersicht auf Ebene Kundengruppe wird ein Total angezeigt das nicht den Detailpositionen entspricht."
+        },
+        {
+          "summary" : "Inperformantes Statement Efeed-Download"
+        },
+        {
+          "summary" : "Inperformantes Statement für Anzahl Daueraufträge"
+        },
+        {
+          "summary" : "DB Rechner: Ausbau CPU und Memory"
+        },
+        {
+          "summary" : "E-banking plus Zugangsdatenbriefe: der Benutzername fehlt"
+        },
+        {
+          "summary" : "Kunde kann DA nicht ändern (Wechsel Belastungskonto)"
+        },
+        {
+          "summary" : "Raiffeisen Austria RZBMRUMMXXX fehlt plötzlich im SWIFT Stamm"
+        },
+        {
+          "summary" : "VVW: Druckfunktion Matrix\/PWD sollte für Liechtenstein und ZH gleichzeitig möglich sein"
+        },
+        {
+          "summary" : "XSD erstellen"
+        },
+        {
+          "summary" : "CM: e-nachrichten beim Beantworten einer e-Nachricht geht nicht hervor wann die Nachricht erstellt wurde. Hinterlässt Fragen beim Export ins Outlook"
+        },
+        {
+          "summary" : "VVW: Beim Kommentieren sollte der Button \"Speichern\" heissen statt \"Senden\""
+        },
+        {
+          "summary" : "Die Benachrichtigung für die Lieferung einer Bestellung soll individuell gesetzt werden können."
+        },
+        {
+          "summary" : "Kontextmenüfunktionen bei e-Vermögensauszügen fehlen"
+        },
+        {
+          "summary" : "Homescreen: Test für e-Post, \"neue\" streichen"
+        },
+        {
+          "summary" : "VVW: Kontextmenü beim Sperren eines Benutzers aktualisieren"
+        },
+        {
+          "summary" : "e-Post Menüeintrag sichtbar auch wenn die Berechtigung fehlt"
+        },
+        {
+          "summary" : "Bei der Verwendung eines USB-Sticks \"Sandisc Cruiser\" kann im Loginfenster das Passwort nicht erfasst werden."
+        },
+        {
+          "summary" : "Bei technischen Problemen (Verfügbarkeit von e-banking) kann das Problem nicht sofort festgestellt werden und die Kunden informiert werden"
+        },
+        {
+          "summary" : "e-Post ist die Berechtigung e-Post nicht gesetzt, wird die Funktion e-Post trotzdem angezeigt."
+        },
+        {
+          "summary" : "DTA - Wird eine DTA-Zahlung TA836 ohne Währung-code eingeliefert wird Fehlermeldung im Logfile ausgegeben."
+        },
+        {
+          "summary" : "Security Engine muss vereinfacht werden"
+        },
+        {
+          "summary" : "Bei der Funktion E_Bestellung Kontoauszug wird die Auszugsperiode mit 12 Monaten vorgeschlagen."
+        },
+        {
+          "summary" : "Benutzer 331045 auf Produktion aufräumen (z.B. 331045\/front...)"
+        },
+        {
+          "summary" : "Client geht out of memory wenn viele Mitteilungen geladen werden"
+        },
+        {
+          "summary" : "Anzahl wrong logins in VVW anzeigen"
+        },
+        {
+          "summary" : "Sortieren von Nachrichten nach Subject oder Text dauert bei grosser Tabelle sehr lange."
+        },
+        {
+          "summary" : "User-Login-Counter muss beim Entsperren wieder auf 0 zurückgesetzt werden."
+        },
+        {
+          "summary" : "Nullpointer in DiffieHellman"
+        },
+        {
+          "summary" : "Upgrade von CM 2.0 auf 2.11 funktioniert nicht"
+        },
+        {
+          "summary" : "Sperrung wird nicht mehr angezeigt"
+        },
+        {
+          "summary" : "Umbau Vertragssuche auf neue Architektur"
+        },
+        {
+          "summary" : "Wechsel von Postzustellung auf Banklagernd soll nicht möglich sein"
+        },
+        {
+          "summary" : "Release Notes 2.11 ins grounet stellen"
+        },
+        {
+          "summary" : "EBALOG.LOG_DATA und LOG_FILE in separatenTablespace schieben."
+        },
+        {
+          "summary" : "Online Hilfe auf 2.11 anpassen"
+        },
+        {
+          "summary" : "Beim Start von e-banking wird das Loginfenster und der Splashscreen gleichzeitig angezeigt"
+        },
+        {
+          "summary" : "Defaultfilter: CM Nachrichtenübersicht für Gruppe"
+        },
+        {
+          "summary" : "Drucken-Knopf wird nich disabled"
+        },
+        {
+          "summary" : "Fehler beim Erstellen von Matrix\/Passwortbrief"
+        },
+        {
+          "summary" : "Erstellen eines Benutzers ist fehlgeschlagen"
+        },
+        {
+          "summary" : "findMessages verurschat OutOfMemory"
+        },
+        {
+          "summary" : "Zugriff auf https:\/\/repo.vpbank.li\/ebanking\/project\/ebanking\/ mit eclipse gibt fehler"
+        },
+        {
+          "summary" : "Nach dem Löschen der Nachrichten bekomme ich immer noch die Meldung \"Sie haben xx neue Nachrichten\""
+        },
+        {
+          "summary" : "Schema EBASTATS auf Test und Entwicklung erstellen"
+        },
+        {
+          "summary" : "Migrierte Mitteilungen werden nicht gefunden"
+        },
+        {
+          "summary" : "Externe Überwachung durch sysformance"
+        },
+        {
+          "summary" : "Client Verhalten bei Unterbrüchen"
+        },
+        {
+          "summary" : "Client resource cleanup"
+        },
+        {
+          "summary" : "Benutzer soll über Nachrichten nur Text schicken können"
+        },
+        {
+          "summary" : "Portierte automatisch generierte Nachrichten haben keinen Empfänger gesetzt"
+        },
+        {
+          "summary" : "DB auf Produktion klemmt"
+        },
+        {
+          "summary" : "Wird ABBREVIATION in der View V_CURRENCY verwendet?"
+        },
+        {
+          "summary" : "CM Client: Status-Popup für Anzahl ungelesene Meldungen sollte Anzahl zu bearbeitende Meldungen anzeigen"
+        },
+        {
+          "summary" : "Demo-Laptop Upgrade (Avaloq)"
+        },
+        {
+          "summary" : "Logins mit nicht erlaubten Sonderzeichen"
+        },
+        {
+          "summary" : "Wird IS_EURO in der View V_CURRENCY verwendet?"
+        },
+        {
+          "summary" : "Testfall: Neuer e-banking Vertrag im Penta erfasst"
+        },
+        {
+          "summary" : "Bei Erfassen eines neuen Benutzers wird in den Kundenrechten \"null null\" angezeigt"
+        },
+        {
+          "summary" : "DTA \/ Oranger EZS: Beim korrigieren der Teilnehmernummer (Konto) wird der Endbegünstigte gelöscht"
+        },
+        {
+          "summary" : "Beim Speichern von e-Post Dokumenten kann nicht mehr abgebrochen werden."
+        },
+        {
+          "summary" : "ORA-00904 - EBASQU.DELETE_EBA_TABLES kompiliert nicht"
+        },
+        {
+          "summary" : "LogLoader NullPointerException"
+        },
+        {
+          "summary" : "Login mit 1 Zeichen für Benutzername"
+        },
+        {
+          "summary" : "{0} in Fehlermeldung"
+        },
+        {
+          "summary" : "Mitteilungseditor soll minimiert werden können"
+        },
+        {
+          "summary" : "Bei der Validierung ist ein Fehler aufgetreten ..."
+        },
+        {
+          "summary" : "Empfänger von Mitteilungen muss validiert werden"
+        },
+        {
+          "summary" : "Verhalten nach Löschen einer Bestellung eines Vermögensauszuges unklar."
+        },
+        {
+          "summary" : "Nachrichten des Vertrages\/Benutzers"
+        },
+        {
+          "summary" : "Leerzeilen im Adressfeld"
+        },
+        {
+          "summary" : "Maske Vertragssuche: Umbenennen \"Direktkunde\" in \"e-banking Standard\""
+        },
+        {
+          "summary" : "Ganzer Nachrichtenbaum wird fett (nur CM)"
+        },
+        {
+          "summary" : "Messages im CM bleiben fett, obwoh sie angezeigt wurden."
+        },
+        {
+          "summary" : "IOException beim exportieren von Nachrichten"
+        },
+        {
+          "summary" : "Zweitvisum nicht möglich"
+        },
+        {
+          "summary" : "Favoritenliste funktioniert noch nicht in Zusammenhang mit der neuen Architektur"
+        },
+        {
+          "summary" : "CM Zürich - finde ich keine Verträge"
+        },
+        {
+          "summary" : "Neuen Vertrag in Penta einschluesseln"
+        },
+        {
+          "summary" : "Leerzeichen vor Kontaktdaten"
+        },
+        {
+          "summary" : "Logdateien sind leer"
+        },
+        {
+          "summary" : "Anrede bei der Kontaktperson fehlt in der Adresse für die Zugangsdatenbriefe"
+        },
+        {
+          "summary" : "Beim Antworten in der CM kann ich keine Beilage anhängen"
+        },
+        {
+          "summary" : "Kommentieren funktioniert nicht"
+        },
+        {
+          "summary" : "Symbole für Kunden wurde im Register Kundenrechte geändert"
+        },
+        {
+          "summary" : "Speichern von 200 e-Post Dokumenten funktioniert nicht immer"
+        },
+        {
+          "summary" : "Als Sprache im Druckdialog wird als Default Französisch angeboten"
+        },
+        {
+          "summary" : "Vertragssuche nach Zürcher\/Vaduzer Verträgen geht nicht mehr"
+        },
+        {
+          "summary" : "Auswahl Verantwortung für CM_Member"
+        },
+        {
+          "summary" : "Fehlermeldung bei falschem Login beim e-banking"
+        },
+        {
+          "summary" : "Vermögensauszug bestellen - komisches Verhalten der Comoboxen ist wieder da"
+        },
+        {
+          "summary" : "PDF Briefe müssen standortspezifisch angepasst werden"
+        },
+        {
+          "summary" : "Fehlendes Kontextmenü in der Nachrichtenübersicht"
+        },
+        {
+          "summary" : "Zeilenumbruch innerhalb der Telefonnummer beim Brief \"Neue Matrix-Karte\""
+        },
+        {
+          "summary" : "Wenn ich die Shift-Tast gedrückt halte und das Menü Zugangsdatendruck aufrufe wir keine neue Sicht verwendet sondern die aktuelle Sicht"
+        },
+        {
+          "summary" : "Neue Oracle JDBC-Treiber installieren"
+        },
+        {
+          "summary" : "Stoppen des Websphere geht sehr lange und hinterlässt tranlog"
+        },
+        {
+          "summary" : "downloadEfeedDocumentAttachments - clientseitiger OutOfMemoryError\"  bei ca. 550 e-Post Dokumenten"
+        },
+        {
+          "summary" : "Zeichenanzahl im Sperrgrund"
+        },
+        {
+          "summary" : "Sicherheitseinstellungen bei von uns erzeugten PDFs"
+        },
+        {
+          "summary" : "Bei einem Vertrag ohne Kunden sollte ich trotzdem einen Benutzer erstellen können (oder?)"
+        },
+        {
+          "summary" : "Semantik von getNewMessageCount hat geändert"
+        },
+        {
+          "summary" : "Mitteilung wenn eine Nachricht mit Status erledigt bearbeitet wird"
+        },
+        {
+          "summary" : "Betreff in Nachrichtenübersicht"
+        },
+        {
+          "summary" : "Anzeigen auf dem Homescreen"
+        },
+        {
+          "summary" : "Mitteilungen sollten vom Server nach Datum Absteigend geliefert werden."
+        },
+        {
+          "summary" : "Bei Exportieren von Mitteilungen soll der KB als Empfänger abgefüllt werden."
+        },
+        {
+          "summary" : "BESR auf Demo Laptop"
+        },
+        {
+          "summary" : "Portierte Mitteilungen mit falschem Status"
+        },
+        {
+          "summary" : "Login auf Testsystem nicht mehr möglich (was1)"
+        },
+        {
+          "summary" : "Filter bei Mitteilungen sollte auf Pendent stehen."
+        },
+        {
+          "summary" : "Server-NullPointerException beim Aufstarten auf Testsystem"
+        },
+        {
+          "summary" : "Absender bei Matrixkarten-Nachricht"
+        },
+        {
+          "summary" : "LockingExceptions bei Stockmarket Orders treten regelmässig auf"
+        },
+        {
+          "summary" : "Weshalb finde ich Vertrag 12.710 wenn ich nach 331045 suche?"
+        },
+        {
+          "summary" : "Djava.awt.headless=true in Websphere 6 scripte einbauen"
+        },
+        {
+          "summary" : "Publikationen nochmals zustellen bei Abonnierung"
+        },
+        {
+          "summary" : "Selektorauswahl bei Standortbenutzer in VVW"
+        },
+        {
+          "summary" : "Leere Zeilen mit Dokumentsymbol bei Vertragssuche"
+        },
+        {
+          "summary" : "Empfänger beim Exportieren von Nachrichten ist nicht abgefüllt"
+        },
+        {
+          "summary" : "Können wir die drei Homescreen Einträge ZA, DA und BA nicht auch verlinken?"
+        },
+        {
+          "summary" : "Uhrzeit im Client rechts unten wird nur alle 10 Minuten nachgeführt"
+        },
+        {
+          "summary" : "Brauchen wir die Tabelle login_group noch? (ist leer)"
+        },
+        {
+          "summary" : "VVW: Fälligkeitsmeldungen in Posteingang"
+        },
+        {
+          "summary" : "Installation auf Testsystem"
+        },
+        {
+          "summary" : "Nachrichtenübersicht: Teilweise werden auch gesendete Nachrichten im Briefeingang angezeigt"
+        },
+        {
+          "summary" : "Kontextmenüpunkte beim Eintieg auf die Seite \"Dienste abonnieren\""
+        },
+        {
+          "summary" : "Bei Create Message funktioniert der Filter nicht richtig"
+        },
+        {
+          "summary" : "Superuser kann nicht geändert werden"
+        },
+        {
+          "summary" : "Schreibfehler Überschrift \"AbonnementENübersicht\""
+        },
+        {
+          "summary" : "Schnittstellenspezifikation erstellen"
+        },
+        {
+          "summary" : "Issue in ServiceProcessor (breakpoint at line 73)"
+        },
+        {
+          "summary" : "Update der Nachrichtenübersicht funktioniert nicht richtig"
+        },
+        {
+          "summary" : "Nachricht erstellen ist im Posteingang??"
+        },
+        {
+          "summary" : "Nachrichtenübersicht - Spalte \"Text\""
+        },
+        {
+          "summary" : "Nachricht erstellen - Maske"
+        },
+        {
+          "summary" : "Button für Nachrichten erledigen"
+        },
+        {
+          "summary" : "Nachricht für Benutzer erstellen"
+        },
+        {
+          "summary" : "Kontextmenü beim Benutzer"
+        },
+        {
+          "summary" : "Wenn eine Nachricht beantwortet wird, steht sie immer noch im Status Bearbeiten in der Nachrichtenübersicht bis Aktualisieren geklickt wird"
+        },
+        {
+          "summary" : "Nachrichten bleiben fett"
+        },
+        {
+          "summary" : "Beim erstellen einer Nachricht ist die Fehlermeldung nicht aussagekäftig"
+        },
+        {
+          "summary" : "Beim Erstellen einer Mitteilung wird das Empfänger feld wird nicht validiert"
+        },
+        {
+          "summary" : "Nachrichten die von CM erstellt wird erscheinen nicht im EB-Client"
+        },
+        {
+          "summary" : "Suchfunktion in der Vertragsverwaltung sollte auch Kunden finden, nicht nur Vertragsnehmer"
+        },
+        {
+          "summary" : "Pro Vertrag kann nur einmal der gleiche Alias vergeben werden."
+        },
+        {
+          "summary" : "Ankündigung kopieren"
+        },
+        {
+          "summary" : "ServerException beim Download von >2000 e-Post Dokumenten"
+        },
+        {
+          "summary" : "ServerException beim Aufruf von findAccessDataLetters (Zugangsdatenbriefe-Übersicht)"
+        },
+        {
+          "summary" : "Vertragsdetails - Button"
+        },
+        {
+          "summary" : "DTA - Bei der Meldung Es sind mehr als 20 Fehler aufgetreten. Die DTA-Datei wird nicht akzepitert werden Fehlermeldungen ausgegeben die keine sind."
+        },
+        {
+          "summary" : "Diverse kleine Fehler in Messages"
+        },
+        {
+          "summary" : "VVW Erweiterung Logging: DB"
+        },
+        {
+          "summary" : "e-Post: Dokumente herunterladen bringt Fehlermeldung"
+        },
+        {
+          "summary" : "Combobox Vertragsart in CM: Text ändern"
+        },
+        {
+          "summary" : "DTA: TA826 Sind die Begünstigtenangaben im Record 03 leer, wird die Zahlung entgegengenommen."
+        },
+        {
+          "summary" : "Bestellung Vermögensauszug - Klick auf Checkboxen"
+        },
+        {
+          "summary" : "Zusatzcode bei ungewöhnlichen Zahlungen verlangen"
+        },
+        {
+          "summary" : "In der Vermögensübersicht wird in der Spalte Bewertungsdatum das Datum der internen Depotbewertung angegeben. Richtig ist das Datum der Kurslieferung"
+        },
+        {
+          "summary" : "Beim Drucken eines Börsenauftrages werden nur 2 Kommastellen ausgegeben"
+        },
+        {
+          "summary" : "Integrate EBASTATS DB objects to SVN repository"
+        },
+        {
+          "summary" : "Implementation PL\/SQL Prozedur MIGPDB.MIGRATE_EBA_TABLES"
+        },
+        {
+          "summary" : "Konzept für Datenmigration"
+        },
+        {
+          "summary" : "Vertragssuche - Checkbox 'nur neu generierte'"
+        },
+        {
+          "summary" : "Bei langsameren Internetverbindungen (Mobile) kann e-banking nicht zuverlässig genutzt werden."
+        },
+        {
+          "summary" : "EBALOG.LOG_DATA should contain service duration"
+        },
+        {
+          "summary" : "HomeScreen Service (Start von e-banking) aufbauen dauert zw. 10 und 40 Sekunden!"
+        },
+        {
+          "summary" : "Bei Börsenlistenauftrag kann der gleiche Kunde mehrmals ausgewählt werden."
+        },
+        {
+          "summary" : "Check data type for amount"
+        },
+        {
+          "summary" : "Abklärungen zu FullLoad"
+        },
+        {
+          "summary" : "XML Samples und StatusCodes"
+        },
+        {
+          "summary" : "mirava - Börsenschnittstelle"
+        },
+        {
+          "summary" : "VVW VertragKundenrechte - Erweiterungen Server"
+        },
+        {
+          "summary" : "VVW HauptvertragServicestamm - Erweiterungen Server"
+        },
+        {
+          "summary" : "VVW HauptvertragServicestamm - Erweiterungen Client"
+        },
+        {
+          "summary" : "Abhängigkeiten VPBEBA -> EBAPDB, generate constraints"
+        },
+        {
+          "summary" : "Integrate VPBEBA Tables\/Packages to PowerDesigner model"
+        },
+        {
+          "summary" : "Anzeige Handels-Periode beim Erfassen des Börsenauftrages"
+        },
+        {
+          "summary" : "Börsenmitteilung ab 20.00 Uhr wird nicht ausgegeben, wenn technische Probleme mit JMID bestehen"
+        },
+        {
+          "summary" : "Zahlungen mit Lesestift erfasst werden u.U. mehrfach ausgeführt"
+        },
+        {
+          "summary" : "CM-Erweiterung: SecurityEngine Regeln für VVW Matrix"
+        },
+        {
+          "summary" : "CM-Erweiterung: Vertrag- und Kundenrechte"
+        },
+        {
+          "summary" : "CM-Erweiterung: Hauptvertrag Servicestamm"
+        },
+        {
+          "summary" : "Applikation startet nicht unter OS X 10.5.1"
+        },
+        {
+          "summary" : "Anzeige von BESR-Daten auf dem Homescreen"
+        },
+        {
+          "summary" : "Database Compare Release 2.11 \/ Initial Mirava"
+        },
+        {
+          "summary" : "Initial Mirava DB setup script"
+        },
+        {
+          "summary" : "Mirava - Database Setup\/Migration"
+        },
+        {
+          "summary" : "Joined Views mit EboRowstate"
+        },
+        {
+          "summary" : "In der Vermögensübersicht werden in den versch. Tabs unterschiedliche Reihenfolgen angezeigt."
+        },
+        {
+          "summary" : "Anzeigen von Werten in der Vermögensübersicht mit Selektion Kundengruppe"
+        },
+        {
+          "summary" : "Anpassung ContractLock\/UserLock objects"
+        },
+        {
+          "summary" : "Remove language dependency in StockMarketOrderStatusServicesImpl"
+        },
+        {
+          "summary" : "In der Vermögensmatrix - Anlagekategorie wird nicht die Reihenfolge wie in der Vermögensübersicht verwendet (zufällige Auswahl)"
+        },
+        {
+          "summary" : "In der Valorensuche wird nicht immer mit den gleichen Kriterien gesucht - Suche mit ISIN"
+        },
+        {
+          "summary" : "Die Einstellung Automatischer Logout in den Einstellungen werden in den Preferences nicht gespeichert"
+        },
+        {
+          "summary" : "Falsche Sprache - Benachrichtigung für Bestellungen"
+        },
+        {
+          "summary" : "VVW Ankündigungen - Erweiterungen Server"
+        },
+        {
+          "summary" : "VVW Ankündigungen - Erweiterungen Client"
+        },
+        {
+          "summary" : "CM-Erweiterung: Ankündigungen"
+        },
+        {
+          "summary" : "MiFID confirmation start time"
+        },
+        {
+          "summary" : "Bei der Mitteilungsvorschau kann die Beilage nicht geöffnet werden"
+        },
+        {
+          "summary" : "ERROR in PaymentServices.findBeneficiaries"
+        },
+        {
+          "summary" : "> 5 falsche Logins mit SU"
+        },
+        {
+          "summary" : "Anzahl gesendeter Mitteilung in die Statistik aufnehmen"
+        },
+        {
+          "summary" : "VVW-Erweiterung Logging: Server"
+        },
+        {
+          "summary" : "VVW-Erweiterung Logging: Client"
+        },
+        {
+          "summary" : "CM - Erweiterung: Logging (Contract\/User-Lock)"
+        },
+        {
+          "summary" : "Remove FastDateFormat in MessageServicesImpl"
+        },
+        {
+          "summary" : "Remove language dependency in MoneyMarketServicesImpl\/StockmarketServicesImpl"
+        },
+        {
+          "summary" : "In der e-Bestellungsübersicht werden die Bestellungen nicht in der Reihenfolge wie sie bestellt werden"
+        },
+        {
+          "summary" : "Bei Transaktionen wird der Feiertagskalender nicht verwendet"
+        },
+        {
+          "summary" : "efeed-Dokumente werden in der e-Postübersicht nicht angezeigt wenn sie aus Abschlüssen entstanden sind (Kontoauszug)"
+        },
+        {
+          "summary" : "Datumfilter beim Kontoauszug führt bei Quartalsabschlüssen zu fehlenden Buchungen"
+        },
+        {
+          "summary" : "Wird beim Kopieren  einer Zahlung die Währung geprüft?"
+        },
+        {
+          "summary" : "Fehlermeldung in der ERROR_QUEUE vom 27.12.07"
+        },
+        {
+          "summary" : "Überprüfen Definition für IBAN aktualisiert werden muss"
+        },
+        {
+          "summary" : "VVW: Beim ändern einer Ankündigung wird die Startzeit auf 12:00 Uhr gestellt (statt unverändert gelassen)"
+        },
+        {
+          "summary" : "Fehlermeldung beim abonnieren von BESR"
+        },
+        {
+          "summary" : "Die Begünstigtenanzeige soll beeinflussbar sein (aktiv\/inaktiv)"
+        },
+        {
+          "summary" : "Abbrechbarkeit von Streams ermöglichen"
+        },
+        {
+          "summary" : "Passwort- und Matrixbriefe drucken  - Erweiterungen Server"
+        },
+        {
+          "summary" : "Passwort- und Matrixbriefe drucken - Erweiterungen Client"
+        },
+        {
+          "summary" : "Publishing - Erweiterungen Server"
+        },
+        {
+          "summary" : "Publishing - Erweiterungen Client"
+        },
+        {
+          "summary" : "VVW Nachrichten - Erweiterungen Server"
+        },
+        {
+          "summary" : "VVW Nachrichten - Erweiterungen Client"
+        },
+        {
+          "summary" : "CM-Erweiterung: Nachrichten"
+        },
+        {
+          "summary" : "CM-Erweiterung: Publishing"
+        },
+        {
+          "summary" : "CM-Erweiterung: Passwort- und Matrixbriefe drucken"
+        },
+        {
+          "summary" : "Periodischer Index-Rebuild bei EBAPDB-Tabellen"
+        },
+        {
+          "summary" : "Ungültiges Zeichen für Benutzer Alias 'á'"
+        },
+        {
+          "summary" : "Bei Kontoauszugsmeldung wird falsches Menu aufgeführt."
+        },
+        {
+          "summary" : "New hashCode and equals implementation for query objects"
+        },
+        {
+          "summary" : "Add Exception to StreamedIterator"
+        },
+        {
+          "summary" : "Streaming EfeedServices umstellen"
+        },
+        {
+          "summary" : "Anzahl \"ausgeführter\" Börsenaufträge in die Statistik aufnehmen"
+        },
+        {
+          "summary" : "Fehler in den zurückgelieferten Dokumenten EfeedDocuments beim Service \"downloadEfeedDocumentAttachments\""
+        },
+        {
+          "summary" : "Beim Starten von e-banking kann die Datei vp-ebanking.jks nicht gefunden werden"
+        },
+        {
+          "summary" : "ISIN, Tickersymbol und Valorennummer in der Börsenauftragsübersicht anzeigen"
+        },
+        {
+          "summary" : "Bei Zahlungs-Generierung aus Dauerauftrag wird Fehlermeldung ausgegeben wenn Enter_contract_numer und Changed_contract_number nicht identisch sind."
+        },
+        {
+          "summary" : "Details zu Festgeldbuchungen ist nicht ersichtlich"
+        },
+        {
+          "summary" : "Vertragssuche - Eintrag 'Alle' bei Rolle 14 (Contract manager for single VPBank member)"
+        },
+        {
+          "summary" : "DTA: Bei Auslandszahlung mit BC-Nr. 206 im Record03 wird falsche Bank ausgewählt!!!"
+        },
+        {
+          "summary" : "Analyse APF und Vergleich zu ZASY"
+        },
+        {
+          "summary" : "mirava - Zahlungsschnittstelle"
+        },
+        {
+          "summary" : "Stream auf Client in Thread auslesen"
+        },
+        {
+          "summary" : "Im Client Build werden die CO Klassen nicht gelöscht"
+        },
+        {
+          "summary" : "BO-Listenauftrag mit 26 Aufträgen dauert 11 Minuten"
+        },
+        {
+          "summary" : "Dauerauftrag: abgelaufene oder gelöschte Daueraufträge werden nur bedingt gelöscht."
+        },
+        {
+          "summary" : "VVW Client ruft BaseServices.getCustomers auf"
+        },
+        {
+          "summary" : "CM Activity-Log-Tabelle auf Vertragsebene"
+        },
+        {
+          "summary" : "CM: History für Benutzer sperren\/entsperren"
+        },
+        {
+          "summary" : "SecurityEngine - Regeln für MEMBER_ID\/CONTRACT_ID"
+        },
+        {
+          "summary" : "SecurityEngine - Regeln für VVW"
+        },
+        {
+          "summary" : "SecurityEngine - Regel für StockmarketOrder"
+        },
+        {
+          "summary" : "SecurityEngine - Regel für PaymentOrder\/StandingOrder"
+        },
+        {
+          "summary" : "CM Erweiterung für Publikationen"
+        },
+        {
+          "summary" : "Benutzer kann BESR-Dienst nicht abonnieren"
+        },
+        {
+          "summary" : "Fehlermeldung wird abgeschnitten"
+        },
+        {
+          "summary" : "Es kann kein Text mehr zugefügt werden in CM Bemerkungsfeld"
+        },
+        {
+          "summary" : "Bestellungen werden nach enterDate statt dateCreated sortiert"
+        },
+        {
+          "summary" : "Streaming mit Diffie-Hellman ermoeglichen"
+        },
+        {
+          "summary" : "Bankzahlung Inland wird bei Eingabe der ganzen BC-Nr. eine falsche Filiale ausgewählt ."
+        },
+        {
+          "summary" : "ebanking Auftrag konnte nicht annulliert werden"
+        },
+        {
+          "summary" : "eStart: C:\/programme\/vpbank\/ebanking\/de\/program\/lib_tmp\/error-messenger.exe kann nicht gelöscht werden."
+        },
+        {
+          "summary" : "MiFID Geschäftstyp wird in OTMS nicht richtig gesetzt für e-banking Börsenaufträge"
+        },
+        {
+          "summary" : "Fehler bei Oracle Index rebuild (NOWAIT)"
+        },
+        {
+          "summary" : "Beim Börsenauftrag wird die Kontoselektion nicht nach Kontonummer aufsteigend angezeigt."
+        },
+        {
+          "summary" : "Börsenaufträge werden bei Mehrfach-Klick mehrfach ausgeführt"
+        },
+        {
+          "summary" : "ID-Löcher in Oracle DB-Tabellen"
+        },
+        {
+          "summary" : "In bestimmten Fällen gibt es Fehler beim Zahlungen erfassen"
+        },
+        {
+          "summary" : "Neue Kategorisierung für MiFID-Bestätigungen"
+        },
+        {
+          "summary" : "Börse-Verkaufsauftrag: angezeigter Bestand stimmt nicht bei Portfoliowechsel"
+        },
+        {
+          "summary" : "Konto-Auswahl bei Börsenauftrag Kauf\/Verkauf geht nicht mehr"
+        },
+        {
+          "summary" : "Weiteres Feld \"MiFID Finanzinstrument\" archivieren bei Börsenaufträgen."
+        },
+        {
+          "summary" : "Statistiken neu berechnen auf DB"
+        },
+        {
+          "summary" : "e-Banking Schnittstellen \/ XSD Versionen"
+        },
+        {
+          "summary" : "BO-Listenauftrag mit 52 Aufträgen dauert zulange. Nightrider ist aktiv passiert aber auf dem Client nichts mehr."
+        },
+        {
+          "summary" : "Fehlerlog bei Service getMainAddressForCustomer()"
+        },
+        {
+          "summary" : "Exception\/Hänger bei Benutzer editieren auf CM"
+        },
+        {
+          "summary" : "NullPointerException in service BaseServices.getMainAddressForCustomer"
+        },
+        {
+          "summary" : "Benutzer\/Rolle - Verknüpfung von Datenberechtigung mit AND"
+        },
+        {
+          "summary" : "Alarmierung von Fehlern aus SYNCHRONIZE_EBA_TABLES"
+        },
+        {
+          "summary" : "Multiple Brokers found for given BrokerPortfolioId"
+        },
+        {
+          "summary" : "Geldmarkt: Beim Aufruf einer FG-Order mit Whrg ohne FG-Konditionen wird nicht richtig abgewickelt."
+        },
+        {
+          "summary" : "OTMS Fullload: fortlaufende Nummerierung im Server-Log bei Abarbeitung"
+        },
+        {
+          "summary" : "Bestellung Vermögensauszug Tabelle"
+        },
+        {
+          "summary" : "Login as eBanking user auf vp-cm Applikation"
+        },
+        {
+          "summary" : "(Silent) Exception bei Zahlungserfassung"
+        },
+        {
+          "summary" : "Bei Börsenauftrag wird ungültige Auswahl ausgegeben wenn 2 Portfolios vorhanden sind."
+        },
+        {
+          "summary" : "DTA: Bankzahlung Inland TA827 mit nicht eindeutigen BC-Nr. wird irgendeine Bank abgefüllt und angezeigt."
+        },
+        {
+          "summary" : "MiFID Aktivierung konfigurierbar"
+        },
+        {
+          "summary" : "MiFID: Der Inhalt der MiFID-Warnung ist dem e-banking Dialog anzupassen"
+        },
+        {
+          "summary" : "MiFID: Die Deklaration des Finanzinstrumentes soll in den Valorenangaben angezeigt werden."
+        },
+        {
+          "summary" : "MiFID: Umbennen der Spalte Profess. im Register Kundenzuordnung"
+        },
+        {
+          "summary" : "Upgrade Castor"
+        },
+        {
+          "summary" : "Actionlink für das Öffnen der Übersichten (alle zugewiesenen Kunden selektiert)"
+        },
+        {
+          "summary" : "Kundengruppe ALLE im Kundenselektor"
+        },
+        {
+          "summary" : "Aufruf Kontoauszug-Funktion aus der Vermögensauszug öffnet falsches Konto"
+        },
+        {
+          "summary" : "Dialog, wenn ErrorMessenger.exe manuell gestartet wird und kleiner Tippfehler"
+        },
+        {
+          "summary" : "e-Nachricht an SU kann verschickt werden, wird aber beim SU nicht angezeigt"
+        },
+        {
+          "summary" : "Skript zum Löschen von DTA Testfällen auf der Test DB der VPBank"
+        },
+        {
+          "summary" : "DTA wird zweimal eingeliefert bei Doppelklick auf den Button"
+        },
+        {
+          "summary" : "Fenstereinstellung Aktionen wird nicht gespeichert"
+        },
+        {
+          "summary" : "Auswahl Kunden bei Börsenauftrag"
+        },
+        {
+          "summary" : "Quittieren von Notifikationen auf dem Superuser"
+        },
+        {
+          "summary" : "Build websphere project fails"
+        },
+        {
+          "summary" : "Loglevel anpassen für Services, die eine Übersicht zurückgeben"
+        },
+        {
+          "summary" : "Börsenkauf-Auftrag wurde dreimal ausgeführt"
+        },
+        {
+          "summary" : "e-Postübersicht Suche - Typ nicht sortiert"
+        },
+        {
+          "summary" : "Bei der Vermögensauszugbestellung soll die Möglichkeit bestehen eine anonyme Variante zu bestellen."
+        },
+        {
+          "summary" : "Refresh after update only if required"
+        },
+        {
+          "summary" : "Sprache wechseln bei CM und SU"
+        },
+        {
+          "summary" : "Konfiguration des Sharing des Begünstigtenverzeichnis im Client"
+        },
+        {
+          "summary" : "Festgelderverlängerung"
+        },
+        {
+          "summary" : "Ausdruck von Börsen-Listenaufträgen druckt Default-Depot und nicht das gewählte Depot"
+        },
+        {
+          "summary" : "WAS6.1 Skripte in build-Prozess integrieren und konfigurierbar machen"
+        },
+        {
+          "summary" : "Einloggen mit Benutzer \"backend\" führt zu NullPointerException im ToeknProcessor"
+        },
+        {
+          "summary" : "Kalender-Selektor öffnet sich nicht mehr bei orangem Einzahlungsschein"
+        },
+        {
+          "summary" : "LogLoader soll in der WAS4 Instanz (eBankingBE) laufen"
+        },
+        {
+          "summary" : "WAS6.1 Skripte sollen wiederholt laufen können"
+        },
+        {
+          "summary" : "Festgeldmitteilung in Deutsch\/Englisch"
+        },
+        {
+          "summary" : "Anpassung Avaloq für Status 'Abgelaufen'"
+        },
+        {
+          "summary" : "Anpassung Server für Status 'Abgelaufen'"
+        },
+        {
+          "summary" : "Anpassung Datenschnittstelle für SECURITY"
+        },
+        {
+          "summary" : "WAS6.1 Eigenes Projekt fuer Skripte anlegen"
+        },
+        {
+          "summary" : "Anpassungen OTMS"
+        },
+        {
+          "summary" : "Anpassungen Datenload Penta-Cusco"
+        },
+        {
+          "summary" : "Anpassungen Server"
+        },
+        {
+          "summary" : "Anpassungen DB"
+        },
+        {
+          "summary" : "Anpassungen CM"
+        },
+        {
+          "summary" : "Anpassungen Client"
+        },
+        {
+          "summary" : "Anpassungen für MiFID"
+        },
+        {
+          "summary" : "Volltextindizierung für bessere Such-Performance"
+        },
+        {
+          "summary" : "Anpassung der DB Optimierungs-Parameter auf Produktion und Test"
+        },
+        {
+          "summary" : "Full-Load Performance ca. 15% schlechter seit Einspielung Release 2.9.3"
+        },
+        {
+          "summary" : "Status Abgelaufen (Expired) bei Börsenaufträgen"
+        },
+        {
+          "summary" : "Fesgeldauftrag: Valutadatum bei e-banking Festgeldaufträgen"
+        },
+        {
+          "summary" : "Kontonummer wird fälschlicherweise als PC- oder ESR-Kontonummer identifiziert"
+        },
+        {
+          "summary" : "Audit entry is empty ARCHIVE_DATA"
+        },
+        {
+          "summary" : "NullPointerException in AssetServices.getSecurityPositions"
+        },
+        {
+          "summary" : "IllegalStateException in SystemErr.log"
+        },
+        {
+          "summary" : "NullPointerException in StockmarketServices.getSecurityMovements"
+        },
+        {
+          "summary" : "Security engine rule for EBO SecurityDetail"
+        },
+        {
+          "summary" : "Ausgeführte DirectDeals können nicht mehr angezeigt bzw. ausgedruckt werden."
+        },
+        {
+          "summary" : "Statistiken werden nicht mehr berechnet"
+        },
+        {
+          "summary" : "Aufbau Kommunikation im Zusammenhang mit Proxy-Einstellungen"
+        },
+        {
+          "summary" : "BESR: Beim Download der BESR-Daten wird die Datei nicht in der Sequenz der Einlieferung geschrieben (nach ID)."
+        },
+        {
+          "summary" : "Ausblendung des Begünstigten bei Nummernkonti"
+        },
+        {
+          "summary" : "Fehler in Housekeeping Prozedure"
+        },
+        {
+          "summary" : "Wird einem Benutzer die Berechtigung Kundengruppen bilden weggenommen, er aber noch Kundengruppen hat, wird Fehlermeldung ausgegeben."
+        },
+        {
+          "summary" : "In der Vertragsverwaltung wird das Feld Passwort gedruckt durch abgefüllt wenn das Passwort generiert wird."
+        },
+        {
+          "summary" : "Fehler bei der Berechnung von quantityAssigne während dem Full-Load"
+        },
+        {
+          "summary" : "Log-Einträge auf dem Client (bei nicht lokalisierbaren Validierungs-Fehlern"
+        },
+        {
+          "summary" : "OTMS-Fullload soll mit fortlaufenden commits abgearbeitet werden."
+        },
+        {
+          "summary" : "Beim Update der CM-Software wird Fehlermeldung ausgegeben wenn von einer alten Version auf die aktuelle updated wird."
+        },
+        {
+          "summary" : "Bei Daueraufträgen kann der Betrag nicht geändert werden."
+        },
+        {
+          "summary" : "Beim e-Post Download (speichern der Dokumente) wird am Schluss die Fehlermeldung \"Allgemeiner Kommunikationsfehler\" ausgegeben."
+        },
+        {
+          "summary" : "Benutzerberechtigungen für DEV$XY Benutzer automatisch erstellen."
+        },
+        {
+          "summary" : "Zahlungen kopieren von einer Zahlung ohne BIC Nummer"
+        },
+        {
+          "summary" : "Ankündigung wird nach dem Aktualisieren-Knopf nicht richtig dargestellt."
+        },
+        {
+          "summary" : "Ausdrucken geht nicht"
+        },
+        {
+          "summary" : "DTA: Bankzahlung Ausland zG. BIC POFICHBE mit falscher IBAN wird undefinierte Fehlermeldung ausgegeben."
+        },
+        {
+          "summary" : "Auswahl Währungskongruente Konto bei Kundenwechsel während Auftragserfassung funktioniert nicht."
+        },
+        {
+          "summary" : "JNDI lookup UserTransaction failed"
+        },
+        {
+          "summary" : "Load DTA file failed"
+        },
+        {
+          "summary" : "TransactionHandlerImpl uses wrong userTransactionName"
+        },
+        {
+          "summary" : "Anzahl Börsenaufträge bei Notifikationen ist falsch!"
+        },
+        {
+          "summary" : "DTA: Bei fehlerhafter Kontonummer z.B. falsche IBAN wird der Inhalt des Feldes nicht angezeigt."
+        },
+        {
+          "summary" : "Notifikation: Bei der Notifikation werden alle Transaktionen gezählt die visiert werden müssen. Woher weiss der Benutzer bei welchem Kunden?"
+        },
+        {
+          "summary" : "DTA: Beim Abfüllen der BIC (Swift) wird beim TA830 nicht die ganze Adresse in der DB abgefüllt."
+        },
+        {
+          "summary" : "DTA: Regelung für Begünstigtenkonto gem. Jira eb-498"
+        },
+        {
+          "summary" : "Notifikationen: Alle Bestätigungen gehen verloren"
+        },
+        {
+          "summary" : "Mit der Einführung der Notifikation werden alle Transaktionen die im System sind notifiziert. Wir haben einige \"Leichen\" im System die nicht notifiziert werden dürfen"
+        },
+        {
+          "summary" : "DTA-Notifikation: DTA-Aufträe werden nicht separat notifiziert."
+        },
+        {
+          "summary" : "Authorization Fehler errors:null"
+        },
+        {
+          "summary" : "Verbesserung der Service-Performance"
+        },
+        {
+          "summary" : "Geldmarktauftrag anzeigen in Geldmarktauftragsübersicht geht nicht"
+        },
+        {
+          "summary" : "Bei Veränderung der Fenstergrösse wird die Favoritenliste nicht mehr gezeichnet"
+        },
+        {
+          "summary" : "Anpassung der Vertragsverwaltung für Tochtergesellschaften"
+        },
+        {
+          "summary" : "Issue in build.xml, file src\/xml\/MoneyMarketTypes.xml not found"
+        },
+        {
+          "summary" : "Beim Roten Einzahlungsschein wird die Fehlermeldung \"Postcheck- oder Teilnehmernummer nicht erlaubt\" zweimal angezeigt"
+        },
+        {
+          "summary" : "In Extras - Einstellungen - Sprache werden die Möglichkeiten mit Deutsch English angegeben."
+        },
+        {
+          "summary" : "In der englischen Version beim Roten Einzahlungsschein wird die Bezeichnung Account beim Radiobutton nicht vollständig angezeigt."
+        },
+        {
+          "summary" : "Minimieren von Nachrichtenfenster in der VVW"
+        },
+        {
+          "summary" : "IBAN wird als Fehler markiert bei der Erfassung im Roten Einzahlungsschein wenn IBAN aktiv"
+        },
+        {
+          "summary" : "Scrollbar bei Maintance Fenster...."
+        },
+        {
+          "summary" : "DTA-Zahlungen mit Status Fehlerhaft werden in der Zahlungsauftragsübersicht nicht angezeigt."
+        },
+        {
+          "summary" : "Nachrichten können nicht mehr erfasst werden"
+        },
+        {
+          "summary" : "Tabelle Börsenauftragsübersicht - Ergänzung mit der Spalte OTMS Nummer"
+        },
+        {
+          "summary" : "Ausdruck Report Vermögensübersicht"
+        },
+        {
+          "summary" : "Notifikation: Poll-Intervall abhängig von ebanking\/ebankingPlus. (x) bestätigt Notifikation"
+        },
+        {
+          "summary" : "Wird e-banking im Loginfenster über den Beenden-Knopf abgebrochen wird der javaw-Prozess nicht beendet."
+        },
+        {
+          "summary" : "OTMS-Aufträge führen zu Exception auf backend"
+        },
+        {
+          "summary" : "DTA: Wird ein DTA-Auftrag gedruckt, nachdem eine fehlerhafte Zahlung gelöscht wurde, werden auf dem Report unterschiedl. Totale angedruckt."
+        },
+        {
+          "summary" : "Kundenzuordnungen bei Börsen-Listenauftrag schlecht bedienbar unter Java 1.6"
+        },
+        {
+          "summary" : "Listenkauf - Auswahl Kunde - bei Nullbestand auf Konto fehlt Portfolio"
+        },
+        {
+          "summary" : "Memory-Leak was1"
+        },
+        {
+          "summary" : "Benutzer konnte als SU nicht gelöscht werden"
+        },
+        {
+          "summary" : "Änderungen von Clearingnummern durch SIC AG bleiben bei Daueraufträgen und vorerfasste Zahlungen bestehen."
+        },
+        {
+          "summary" : "Doppelklick auf Titel in Titelauswahlliste (Filter, Bestand, VP Bank Fonds) führt  zur nächsten Wizard-Seite"
+        },
+        {
+          "summary" : "Listenverkauf funktioniert manchmal nicht"
+        },
+        {
+          "summary" : "SoToPoGeneratorServicesImpl throws java.lang.NumberFormatException"
+        },
+        {
+          "summary" : "Bankensuche nach österreicher BLZ liefert falsche\/keine Ergebnise"
+        },
+        {
+          "summary" : "Oracle parameter CURSOR_SHARING"
+        },
+        {
+          "summary" : "DTA: Im Detailfenster einer DTA-Zahlung wird die BC-Nr. als Falsch markiert obwohl die BC-Nr. existiert."
+        },
+        {
+          "summary" : "Tabellen-Spalten von vorne nach hinten schieben geht nicht mehr (Javaa 1.6)"
+        },
+        {
+          "summary" : "Meldung bei Gesamtcashposition"
+        },
+        {
+          "summary" : "Servicestamm von Standort A kann an Hauptvertrag von Standort A gehängt werden"
+        },
+        {
+          "summary" : "Login with VV user Zurich not possible"
+        },
+        {
+          "summary" : "Remove MEMBER_ID in EBOs UserProfile and CustomerGroup"
+        },
+        {
+          "summary" : "VVW Login shows WARN in log file"
+        },
+        {
+          "summary" : "Avaloq-Seite Anpassungen für Mehrsprachigkeit"
+        },
+        {
+          "summary" : "Client-Side Anpassungen für Mehrsprachigkeit"
+        },
+        {
+          "summary" : "Server-Side Anpassungen für Mehrsprachigkeit"
+        },
+        {
+          "summary" : "Mehrsprachigkeit der eBanking Applikation und Vertragsverwaltung"
+        },
+        {
+          "summary" : "Benutzerrechte werden erst aktiv wenn man ausloggt und neu einloggt"
+        },
+        {
+          "summary" : "Erfassung von Daueraufträgen --> Begünstigte werden nicht vorgeschlagen"
+        },
+        {
+          "summary" : "Notifikation Maintenance kommt immer wieder"
+        },
+        {
+          "summary" : "Börsenaufträge Doppelklick - Display Mode anzeigen"
+        },
+        {
+          "summary" : "UserPermissionServices.updateUserPermissions - Update failed"
+        },
+        {
+          "summary" : "Ankündigungen\/Notifikationen mit Attachments erfassen im CM, Attachments öffnen auf Client"
+        },
+        {
+          "summary" : "Zahlung aus Übersicht mit Doppelklick geöffnet kann nicht verändert werden (Button wird nicht angezeigt auch nicht inaktiv)"
+        },
+        {
+          "summary" : "Gültig Bis Datum Börse"
+        },
+        {
+          "summary" : "Zahlung erfassen: rote Ausrufezeichen erscheinen bei read-only Textstellen"
+        },
+        {
+          "summary" : "Einstellungen speichern, richtiger Fehler wird vom Client nicht angezeigt"
+        },
+        {
+          "summary" : "Archivierte Nachrichten werden i.d. Produktion erst nach 10 Minuten angezeigt"
+        },
+        {
+          "summary" : "ZASY Status einer Zahlung wird nicht aktualisiert"
+        },
+        {
+          "summary" : "Attachments bei Notifikationen"
+        },
+        {
+          "summary" : "Cleanup LOG_AUDIT entries"
+        },
+        {
+          "summary" : "User\/Schema-Berechtigungen auf DB anpassen"
+        },
+        {
+          "summary" : "Notifikation soll die Anzahl Aufträge anzeigen"
+        },
+        {
+          "summary" : "Cleanup eboconfig.properties, Remove filter variables"
+        },
+        {
+          "summary" : "DTA: Das Belastungskonto soll auch als IBAN erkannt werden."
+        },
+        {
+          "summary" : "Notifikationsmeldungen pro e-banking Benutzer konfigurierbar machen (Einstellungen)"
+        },
+        {
+          "summary" : "Begünstigten-Verzeichnis sharing individuell ermöglichen"
+        },
+        {
+          "summary" : "DTA: Wird eine leere DTA-Datei übermittelt,  wird eine undefinierte Fehlermeldung ausgegeben."
+        },
+        {
+          "summary" : "Aktivieren\/Deaktivieren Dauerauftrag - Changed Werte werden nicht gesetzt"
+        },
+        {
+          "summary" : "Fenster von Notifikationen kann nicht geschlossen werden"
+        },
+        {
+          "summary" : "Daueraufträge die an einem inaktiven Vertrag hängen werden nicht mehr ausgeführt. Bei Kundenumhängen kann dies ein Problem werden."
+        },
+        {
+          "summary" : "Mit der neuen Druckfunktionalität über PDF wird keine Meldung ausgegeben, wenn der Reader oder gleichwertiges nicht installiert ist."
+        },
+        {
+          "summary" : "Java Update für Linux (Ubuntu)"
+        },
+        {
+          "summary" : "Vermögensübersicht - Keine Daten gefunden"
+        },
+        {
+          "summary" : "Skalierung der DB mit Andy Frei"
+        },
+        {
+          "summary" : "Erfassung mit Lesestift optimieren"
+        },
+        {
+          "summary" : "E-Banking Demo: Suchfilter-Felder von\/bis-Datum über user-properties konfigurierbar machen"
+        },
+        {
+          "summary" : "Erweiterung VVW: DirectDeal, Bemerkungsfelder, Customer-Advisor-Felder"
+        },
+        {
+          "summary" : "Notifikation als EZ kommt nicht obwohl Visum 1 nötig"
+        },
+        {
+          "summary" : "Vermögensmatrix: Die Minus Saldi werden in der Grafik nicht korrekt angezeigt."
+        },
+        {
+          "summary" : "Proxy Konfiguration"
+        },
+        {
+          "summary" : "Upgrade to Oracle 10g"
+        },
+        {
+          "summary" : "Passwörter der DB-User EBAPDB, VPBEBA, EBASQU usw. ändern"
+        },
+        {
+          "summary" : "Nullbestände werden in der Kundengruppe falsch angezeigt"
+        },
+        {
+          "summary" : "Fehlerhafte OTMS-Reply"
+        },
+        {
+          "summary" : "Update Web-Sphere auf Version 6.1"
+        },
+        {
+          "summary" : "Monitoring - Überwachung von Betrieb e-banking"
+        },
+        {
+          "summary" : "Java Update für Windows Vista"
+        },
+        {
+          "summary" : "Windows Vista Kompatibilität"
+        },
+        {
+          "summary" : "IBAN-Prüfung ist fehlerhaft"
+        },
+        {
+          "summary" : "Einheitliche Prüfung der Begünstigten-Kontonummern bei div. Zahlungsarten."
+        },
+        {
+          "summary" : "Broker wird nicht angezeigt für bestimmten Titel"
+        },
+        {
+          "summary" : "Drucken von Kontoauszug mit Umsatz null"
+        },
+        {
+          "summary" : "Cleanup WebSphere AS 5.1.x sample config, files and directories"
+        },
+        {
+          "summary" : "Statistic PL-SQL braucht viel zu lange - musste deaktiviert werden."
+        },
+        {
+          "summary" : "Client loggt NullPointerException bei NonRecurringOrderView"
+        },
+        {
+          "summary" : "Bestimmte Valoren können nicht mehr gehandelt werden."
+        },
+        {
+          "summary" : "Oranger EZ kopieren und wieder aufgeben geht nicht."
+        },
+        {
+          "summary" : "Direct Deal Permission für SU"
+        },
+        {
+          "summary" : "setPreferences NullPointerException in Server-Log"
+        },
+        {
+          "summary" : "In der Funktion Kontoauszug wird bei Zürcher-Kunden die IBAN nicht angezeigt."
+        },
+        {
+          "summary" : "Cleanup\/Delete for Stockmarket and Moneymarket OTMS tables"
+        },
+        {
+          "summary" : "Slow service StockmarketServices.findSecurities"
+        },
+        {
+          "summary" : "Bei der Bonitätsprüfung (Cash-Validierung) wird beim Auftrag ein falscher Betrag ausgegeben."
+        },
+        {
+          "summary" : "Listenauftrag ändern: Änderungen werden trotz \"Abbrechen\" in Übersicht angezeigt."
+        },
+        {
+          "summary" : "Kopieren\/Ändern von Ankündigungen über Action-Links geht nicht in der VVW."
+        },
+        {
+          "summary" : "In der Übersicht Geldmarktbestand werden die Details nicht mehr angezeigt"
+        },
+        {
+          "summary" : "e-Post speichern"
+        },
+        {
+          "summary" : "Error processing OTMS orders in eBanking"
+        },
+        {
+          "summary" : "Tickersymbol für Valoren"
+        },
+        {
+          "summary" : "Zahlungsmasken: Text hinter roten Ausrufezeichen"
+        },
+        {
+          "summary" : "Ankündigungen in der VVW funktionieren nicht mehr"
+        },
+        {
+          "summary" : "Neuer Report für die Valorenbestandesliste"
+        },
+        {
+          "summary" : "Ausdrucken von Reporten wenn Knight Rider noch am laden ist"
+        },
+        {
+          "summary" : "Ausdruck Listenauftrag und dann Börsenauftrag (einzeln) --> Tabelle vom Listenauftrag wird übernommen"
+        },
+        {
+          "summary" : "DD: Bei Direct Deals kann eine Valuta Samstag\/Sonntag ausgewählt werden."
+        },
+        {
+          "summary" : "Meldung: visieren eines Börsenauftrages mit Datum in der Vergangenheit"
+        },
+        {
+          "summary" : "Päferenzen laden (und speichern?) geht nicht mehr"
+        },
+        {
+          "summary" : "Keine Abrechnungsdetails für Börsengeschäft"
+        },
+        {
+          "summary" : "Automatische Erkennung einer IBAN"
+        },
+        {
+          "summary" : "DTA: Bei TA827 PC-Zahlung zg. Bank wird beim Fehlen des Begünstigtennamen (Record 03) einen Fehler ausgegeben."
+        },
+        {
+          "summary" : "Replikation Valorenstamm auf Testsystem"
+        },
+        {
+          "summary" : "Kopieren von Aufträgen, wenn auf einem Kunde keine Berechtigung mehr besteht"
+        },
+        {
+          "summary" : "Listenauftrag mit Kollektiv erfassen und ändern - geht nicht"
+        },
+        {
+          "summary" : "Vermögensübersicht - Tabelle"
+        },
+        {
+          "summary" : "DTA: Fehlermeldungen werden im englischen Client in Deutsch ausgegeben."
+        },
+        {
+          "summary" : "DTA: TA827 mit ungültiger PC-\/BC-Nr werden die Angaben aus dem BANK_DIRECTORY mit WEBA_ORIGIN = SIC_DIRECTORY verwendet"
+        },
+        {
+          "summary" : "DTA: TA827 zg.BC-Nr. aber mit PC-Nr in Record 03 wird kein Fehler ausgegeben."
+        },
+        {
+          "summary" : "Währungskongruentes Konto beim Aendern, Kopieren von Listen + DD"
+        },
+        {
+          "summary" : "Kontroll-Möglichkeit von pendenten oder aktiven Transaktionen für die Zusammenlegung von e-banking-Verträgen"
+        },
+        {
+          "summary" : "Listenverkauf - Kopieren übernimmt falschen Bestand"
+        },
+        {
+          "summary" : "DD: Kopiere vorerfassten Auftrag -> Broker wird nicht übernommen"
+        },
+        {
+          "summary" : "Listenverkauf: Bestand ist falsch"
+        },
+        {
+          "summary" : "Erfasserrecht: Einen DD kopieren und vorerfassen"
+        },
+        {
+          "summary" : "DD: Kontextmenü aus der Börsenauftragsübersicht"
+        },
+        {
+          "summary" : "DD: Kunde mit 2 Depots hinzufügen funktioniert nicht."
+        },
+        {
+          "summary" : "DD: Falsche Broker werden angezeigt"
+        },
+        {
+          "summary" : "DD Kundenzuordnung wird jeweils gelöscht beim Kopieren"
+        },
+        {
+          "summary" : "Kopieren von ausgeführten Direct Deals - VERKAUF"
+        },
+        {
+          "summary" : "Visieren, Ändern, Annullieren von Aufträgen über eBanking Verträge"
+        },
+        {
+          "summary" : "DD: In der Vertragsverwaltung werden nicht alle Kunden mit dem Flag Direct Deal (Kundenrecht) gekennzeichnet"
+        },
+        {
+          "summary" : "DD: Kunden-Portfolios werden nicht vollständig angezeigt"
+        },
+        {
+          "summary" : "Rotes Ausrufezeichen bei Datumsanzeige auf Direct Deal Maske"
+        },
+        {
+          "summary" : "Mitteilung wenn kein Broker zu der Titelwährung gefunden werden kann"
+        },
+        {
+          "summary" : "Beim Kopieren eines DAA's mit Z-Art Bankinterne Überweisung wird Fehlermeldung Banksuche fehlgeschlagen ausgegeben"
+        },
+        {
+          "summary" : "Neue DTA-Transaktionsart TA837"
+        },
+        {
+          "summary" : "Archivierung Direct Deal"
+        },
+        {
+          "summary" : "BESR: Beim nochmaligen Abholen der BESR-Daten werden die noch nicht abgeholten BESR-Eingänge als abgeholt in die DB zurückgeschrieben."
+        },
+        {
+          "summary" : "BESR Daten abholen, issue wenn zuerst alte Daten abgeholt werden"
+        },
+        {
+          "summary" : "Performance Anzeige auf dem Ausdruck der Vermögensmatrix"
+        },
+        {
+          "summary" : "Statistik Tabelle - Direct Deal"
+        },
+        {
+          "summary" : "Anpassung Suche Börsenaufträge"
+        },
+        {
+          "summary" : "Direct Deal Archivierung - Belegart für den Direct Deal bestimmen"
+        },
+        {
+          "summary" : "ZV: Begünstigten Selektion"
+        },
+        {
+          "summary" : "Börse: Bestätigung über SMS und Bildschirm wird ein Fragezeichen vor dem Kurs ausgegeben."
+        },
+        {
+          "summary" : "Benutzer mit Erfasserrecht für Börsen kann Auftrag im Status Visum1 nötig nicht löschen"
+        },
+        {
+          "summary" : "Client-side Anpassung für Direct Deal"
+        },
+        {
+          "summary" : "Server-side Anpassung für Direct Deal"
+        },
+        {
+          "summary" : "Anpassung VPBEBA Datenbank"
+        },
+        {
+          "summary" : "DTA: Bei TA832 wird nichtssagende Fehlermeldung ausgegeben."
+        },
+        {
+          "summary" : "pdf-Printing"
+        },
+        {
+          "summary" : "Währungskongruentes Konto"
+        },
+        {
+          "summary" : "Auswahl in Kunden-Konto-DropDown bei Börsen-Listenauftrag ist falsch"
+        },
+        {
+          "summary" : "Client-Side Anpassung für Vertragsverwaltung"
+        },
+        {
+          "summary" : "Server-Side Anpassung für Vertragsverwaltung"
+        },
+        {
+          "summary" : "In der Vermögensübersicht ist die ISIN und das Tickersymbol optional anzeigbar"
+        },
+        {
+          "summary" : "Slow service PaymentServices.findBeneficiaries"
+        },
+        {
+          "summary" : "ZASY Schnittstelle (REZ mit IBAN)"
+        },
+        {
+          "summary" : "Index auf DB-Tabelle Accout erstellen"
+        },
+        {
+          "summary" : "Security Review, Item Nr 19"
+        },
+        {
+          "summary" : "Security Review, Item Nr 18"
+        },
+        {
+          "summary" : "Security Review, Item Nr 17"
+        },
+        {
+          "summary" : "Security Review, Item Nr 16"
+        },
+        {
+          "summary" : "Security Review, Item Nr 15"
+        },
+        {
+          "summary" : "Security Review, Item Nr 14"
+        },
+        {
+          "summary" : "Security Review, Item Nr 13"
+        },
+        {
+          "summary" : "Security Review, Item Nr 12"
+        },
+        {
+          "summary" : "Security Review, Item Nr 11"
+        },
+        {
+          "summary" : "Security Review, Item Nr 10"
+        },
+        {
+          "summary" : "Security Review, Item Nr 9"
+        },
+        {
+          "summary" : "Security Review, Item Nr 8"
+        },
+        {
+          "summary" : "Security Review, Item Nr 7"
+        },
+        {
+          "summary" : "Security Review, Item Nr 6"
+        },
+        {
+          "summary" : "Security Review, Item Nr 5"
+        },
+        {
+          "summary" : "Security Review, Item Nr 4"
+        },
+        {
+          "summary" : "Security Review"
+        },
+        {
+          "summary" : "Im Status \"Teilausgeführt\" kann nicht gelöscht werden"
+        },
+        {
+          "summary" : "Notifikationen (Server)"
+        },
+        {
+          "summary" : "Issue with Log4J in WebSphere 5.1.x (JVM 1.4.2.x)"
+        },
+        {
+          "summary" : "Notifikaitionen (Client)"
+        },
+        {
+          "summary" : "Client-side implementation für Limitierte Fonds"
+        },
+        {
+          "summary" : "Server-side implementation für Limitierte Fonds"
+        },
+        {
+          "summary" : "Anpassung Datenschnittstelle (INVCOD_TRADETYPE)"
+        },
+        {
+          "summary" : "Server Out of Memory bei e-Post Browsing"
+        },
+        {
+          "summary" : "Client mit http Connection"
+        },
+        {
+          "summary" : "IBAN roter EZS - Client Side Implementation"
+        },
+        {
+          "summary" : "IBAN roter EZS - Server Side Implementation"
+        },
+        {
+          "summary" : "Annullieren von aktiven Börsenaufträgen von saldierten Konti (AccountID=null)"
+        },
+        {
+          "summary" : "Notifikation Börsenauftragsübersicht"
+        },
+        {
+          "summary" : "Zwischenmaske beim Visieren eines Börsenauftrages"
+        },
+        {
+          "summary" : "e-Post - Dokumente mit Mehrfachselektion speichern"
+        },
+        {
+          "summary" : "Ankündigungen mit Anhängen ergänzen (Server, DB)"
+        },
+        {
+          "summary" : "Ankündigungen mit Anhängen ergänzen (Client)"
+        },
+        {
+          "summary" : "Client Erweiterung für die Bemerkungsfelder"
+        },
+        {
+          "summary" : "Anpassung createStockExchangeOrder service"
+        },
+        {
+          "summary" : "DB Feld IS_STOCKMARKET_REMARK erweitern"
+        },
+        {
+          "summary" : "IBAN Prüfung ebanking vs. ZASY"
+        },
+        {
+          "summary" : "Abklärungen für Oracle 10"
+        },
+        {
+          "summary" : "Oracle 10 Upgrade"
+        },
+        {
+          "summary" : "Bemerkungsfelder erweitern um 3 Felder"
+        },
+        {
+          "summary" : "Ankündigungen mit Hyper-, Action-Links und Anhängen ergänzen"
+        },
+        {
+          "summary" : "Wird über eine Kundengruppe die Vermögensübersicht aufgerufen, werden bei den Liquiden Mittel Konto mit Saldo 0 (Null) sep. angezeigt."
+        },
+        {
+          "summary" : "Logout bestätigung"
+        },
+        {
+          "summary" : "Spezifikation ProDF"
+        },
+        {
+          "summary" : "Professional Data Feed"
+        },
+        {
+          "summary" : "Bei der Valorensuche mit Valor 1.073.721 (VP Bank Inhaber) wird ein falsches Ergebnis ausgegeben."
+        },
+        {
+          "summary" : "Bei der Valorensuche wird beim Valor 352.781 mit dem Filter AKTIEN die Meldung Keine Daten gefunden ausgegeben."
+        },
+        {
+          "summary" : "Bei einer Zahlung Kontoübertrag wird der falsche Kundenname in der ZV-Übersicht angezeigt."
+        },
+        {
+          "summary" : "Kundenrecht auf Benutzer ist nicht identisch mit Kundenrecht auf der Kundenzuordnung bei nachträglicher Änderung"
+        },
+        {
+          "summary" : "Börsen-Fullload unerklärlich vom 19.1.07"
+        },
+        {
+          "summary" : "KB Statistik - Werte historisiert i.d. DB ablegen"
+        },
+        {
+          "summary" : "CONTRACT_ASSIGNMENT record wird nicht erstellt"
+        },
+        {
+          "summary" : "DTA: Bei TA827 mit BIC im Feld BC-Nr. kann fehlerhafte Zahlung nicht korrigiert werden."
+        },
+        {
+          "summary" : "Zielverzeichnis nach Speichervorgang anzeigen"
+        },
+        {
+          "summary" : "Performance-Tuning auf e-banking Oracle Datenbank"
+        },
+        {
+          "summary" : "Bei User-Erfassung mit vorhandenem Eintrag keine Fehlermeldung sondern Warnung loggen."
+        },
+        {
+          "summary" : "Fehlermeldung unterdrücken für leere Kundengruppen"
+        },
+        {
+          "summary" : "Business Case fertigstellen"
+        },
+        {
+          "summary" : "Finanzinformationssystem"
+        },
+        {
+          "summary" : "Detail-Spezifikation erstellen \/ ergänzen"
+        },
+        {
+          "summary" : "Direct Deal: Schnittstelle zu OTMS"
+        },
+        {
+          "summary" : "Definition Datenschnittstelle Direct Deal"
+        },
+        {
+          "summary" : "Direct Deal Auftrag"
+        },
+        {
+          "summary" : "Fehlermeldung bei nicht zuweisbaren e-Feed-Dokumenten wenn Vertrag noch nicht geladen ist."
+        },
+        {
+          "summary" : "Bei Vermögensübersicht Null-Werte von Konti anzeigen"
+        },
+        {
+          "summary" : "TA827: Bei Postzahlung wird Fehlermeldung ausgegeben, wenn im Rec 03 Konto des Beg. PC steht."
+        },
+        {
+          "summary" : "Listenauftrag: Beim Drucken eines Listenauftrages wird die Gesamtanzahl ausgegeben. Gegenwert wird nur von einem Kunden gedruckt."
+        },
+        {
+          "summary" : "Einbau von neuen Feldern für die Anzeige der Marchzinsen in der Vermögensübersicht."
+        },
+        {
+          "summary" : "Beim Kopieren einer Zahlung wird das Bankenverzeichnis nicht geprüft."
+        },
+        {
+          "summary" : "Kontoübertrag von ZH konto auf FL Konto mit gleicher Nummer nicht möglich"
+        },
+        {
+          "summary" : "Archivierung: Bei der Archivierung von >Zahlungen wird der Inhalt von Bankmitteilung und Zahlungsgrund vertauscht"
+        },
+        {
+          "summary" : "Tooltip bei falscher Eingabe Benutzeridentifikation"
+        },
+        {
+          "summary" : "Bei der Börsenauftrags-Bestätigung drucken wird eine falsche Anzahl gedruckt"
+        },
+        {
+          "summary" : "Listenauftrag: Kunde konnte listenauftrag nicht annulieren: null-Pointer"
+        },
+        {
+          "summary" : "Zahlung  (roter EZ zugunsten Bank) kopieren --> Kontonummer wird nicht mehr angezeigt"
+        },
+        {
+          "summary" : "DAA: Wird das Feld 'Ausführen am' geändert, wird das Nächstmals Datum erhöht."
+        },
+        {
+          "summary" : "Archivierung: Spesenabrechnung fehlt"
+        },
+        {
+          "summary" : "Handelsart bestens und limitiert bei kotierten Fonds zulassen"
+        },
+        {
+          "summary" : "Auf Linux wird das Chart in einem separaten Window sichtbar"
+        },
+        {
+          "summary" : "Bei der Änderung der PC-Nr. einer kopierten Zahlung (Roter Einzahlungsschein) wird die PC-Nr. nicht in der DB gespeichert."
+        },
+        {
+          "summary" : "Backend:  Prozesszeiten im ebabackend über crontabsteuerung führt zu Konflikten"
+        },
+        {
+          "summary" : "DTA: Das Entladen einer grossen DTA-Datei übersteigt den definierten Timeout von 120 Sek."
+        },
+        {
+          "summary" : "BO-Listenauftrag: Bei einem Listenauftrag wird bei der Bestätigung ein falsches Total ausgegeben."
+        },
+        {
+          "summary" : "UV an einen anderen HV gehängt - Kundenrechte müssen gelöscht werden"
+        },
+        {
+          "summary" : "DTA: Fehlerhafte Zahlungen können durch Benutzer mit Erfasser-Rechte nicht geändert resp. gelöscht werden."
+        },
+        {
+          "summary" : "Benutzer kann fehlerhafte DTA Zahlung nicht ändern\/löschen"
+        },
+        {
+          "summary" : "DAA: Daueraufträge mit der Z-Art Kontoübertrag werden nicht ausgeführt sofern das ZV-Recht nicht gesetzt ist."
+        },
+        {
+          "summary" : "In der Uebersicht \"Archivierte Nachrichten\" kann ich nochmal archivieren"
+        },
+        {
+          "summary" : "TokenProcessor - token mismatch"
+        },
+        {
+          "summary" : "Archivdokument kann für Börsenauftrag (VERKAUF) nicht erstellt werden - NullPointerException"
+        },
+        {
+          "summary" : "No Client timeout after relogin - (timeout, logout, relogin)"
+        },
+        {
+          "summary" : "Zahlungszweck ist nicht mehr ausgefüllt, wenn ich den Auftrag ändere"
+        },
+        {
+          "summary" : "eBanking Meinungsumfrage"
+        },
+        {
+          "summary" : "Enhance log statements for checkRights(StandingOrderVO soVO) method"
+        },
+        {
+          "summary" : "Set the MQ Backout threshold property to 2"
+        },
+        {
+          "summary" : "Wird ein DA geändert, dann wird das nextExecuteDate auf firstExecuteDate + 1 gesetzt"
+        },
+        {
+          "summary" : "In OTMS-Statusmeldungen soll createdByUser ignoriert werden"
+        },
+        {
+          "summary" : "Oranger Einzahlungsschein:  Begünstigten Verzeichnis funktioniert nicht mehr"
+        },
+        {
+          "summary" : "Kontoübertrag ab Sparkonto wenn Portfolio-übergreifend nicht möglich"
+        },
+        {
+          "summary" : "Service call synchronization calling services setPreferences and logout"
+        },
+        {
+          "summary" : "sxOrderStatus wird vor orderReply (mit orderType=sxOrder) an eBanking geschickt"
+        },
+        {
+          "summary" : "DTA: Zahlung mit Wert = 0 im Feld Kontonummer wird fehlerfrei entgegengenommen."
+        },
+        {
+          "summary" : "Untervertraege werden i.d. VVW Suche doppelt angezeigt"
+        },
+        {
+          "summary" : "e-Post: In der VVw wird im Register Servicestämme der Vertragstyp nicht angezeigt."
+        },
+        {
+          "summary" : "Börsenaufträge mit übersteuerbare Meldungen funktionieren nicht mehr"
+        },
+        {
+          "summary" : "Link in Nachrichten und Aktionslink in den Nachrichten funktioniert nicht mehr"
+        },
+        {
+          "summary" : "Attachements aus Nachrichten lassen sich nicht öffnen"
+        },
+        {
+          "summary" : "Archivierung: Kontonummer Begünstigter \/ Belastung kann nicht unterschieden werden"
+        },
+        {
+          "summary" : "DTA-TA827 Zahlung ist eine eindeutige Bankzahlung. Wird aber als Roter Einzahlungsschein erkannt. Auftrag ist O.K. Zahlunge jedoch Fehlerhaft."
+        },
+        {
+          "summary" : "ZV: Im Feld Mitteilung an Bank können in der Bankzahlung Ausland nur 5 Zeilen erfasst werden."
+        },
+        {
+          "summary" : "Kunden bleiben i.d. Kundengruppen wenn Untervertrag umgehängt wird"
+        },
+        {
+          "summary" : "Links un \"Rechtliche Informationen\" anpassen"
+        },
+        {
+          "summary" : "Dauerauftrag kann nicht erfasst werden - ClassCastException"
+        },
+        {
+          "summary" : "Gelöschter Servicestamm wird als leerer Eintrag i.d. VVW angezeigt"
+        },
+        {
+          "summary" : "LSV+: Der Report-Titel ist Gutschriften (ESR)"
+        },
+        {
+          "summary" : "LSV+: Im Bestätigungsfenster wird der Text BESR-Daten gespeichert für Konto. Es wird zweimal die Kontonummer ausgegeben."
+        },
+        {
+          "summary" : "efeed: Auf dem Homescreen wird die Anzahl der e-Post Dokumente angezeigt. Mit Doppelklick soll auf die e-Postübersicht gewechselt werden"
+        },
+        {
+          "summary" : "efeed: Bei der Mehrfachselektion soll in der Statusleiste die Anzahl der  markierten Dokumente angezeigt werden."
+        },
+        {
+          "summary" : "efeed: In der e-Postübersicht kann der Filter Datum angewendet werden. Die Änderung auf Datum wird in den Properties nicht gespeichert."
+        },
+        {
+          "summary" : "Kundengruppen können nicht mehr erstellt werden."
+        },
+        {
+          "summary" : "Copy\/Paste in Client Inputfelder"
+        },
+        {
+          "summary" : "Hexwert NEWLINE in Zahlungsfeld"
+        },
+        {
+          "summary" : "Auslandszahlung mit unerlaubten Zeichen"
+        },
+        {
+          "summary" : "Dateiname von Bestellungen anpassen"
+        },
+        {
+          "summary" : "Archivierung: Fehler beim Entladen"
+        },
+        {
+          "summary" : "Archivierung: Tags fehlen"
+        },
+        {
+          "summary" : "Archivierung: Geändert durch ist immer leer"
+        },
+        {
+          "summary" : "Archivierung: falsches MQ-Meldungsformat"
+        },
+        {
+          "summary" : "Archivierung scheribfehler \"Erfasset durch\""
+        },
+        {
+          "summary" : "Archiviertes PDF-Dokument nicht ins log-file schreiben"
+        },
+        {
+          "summary" : "Wenn ich einen Börsenauftrag ändere und etwas in das Bemerkungsfeld schreibe, wird das nicht übernommen"
+        },
+        {
+          "summary" : "Archivierung von übersteuerten und Abgelehnte Börsenaufträgen"
+        },
+        {
+          "summary" : "Bei Archivierung wird Bestätigung SMS nicht abgefüllt"
+        },
+        {
+          "summary" : "Bei der Archivierung wird Bankidentifikation falsch abgefüllt"
+        },
+        {
+          "summary" : "Passwort ändern geht nicht obwohl mind. 6 Stellen verwendet werden."
+        },
+        {
+          "summary" : "Geldmarktbestand lässt sich nicht aufrufen"
+        },
+        {
+          "summary" : "MQ-efeed: Kann ein Dokument nicht zugewiesen werden, werden 3 Versuche gestartet und jedesmal in die error_Queue geschrieben."
+        },
+        {
+          "summary" : "DTA TA836: wird ein TA836 mit einer formatierten IBAN eingeliefert wird undefinierte Fehlermeldung ausgegeben."
+        },
+        {
+          "summary" : "eFeed changes for contract management (new sub-contract)"
+        },
+        {
+          "summary" : "Zahlungsauftragsübersicht wird nicht mehr angezeigt."
+        },
+        {
+          "summary" : "Kann Börsenauftrag nicht erfassen"
+        },
+        {
+          "summary" : "BZ Ausland - Ausrufezeichen wird nicht angezeigt (AttributeValidationException)"
+        },
+        {
+          "summary" : "Listenauftrag - Limite wird nicht geprüft"
+        },
+        {
+          "summary" : "Memory Usage Analysieren"
+        },
+        {
+          "summary" : "e-Post: Bei einer Multiple-Speicherung wird der Speicherort Data vorgeschlagen und nicht epost"
+        },
+        {
+          "summary" : "e-Post: Bei der Multiple-Speicherung von Dokumenten mit einer 8-stelligen Konto-Nr. werden andere Dateinamen verwendet."
+        },
+        {
+          "summary" : "Housekeeping (logical\/physical delete) for archived documents"
+        },
+        {
+          "summary" : "Listenauftrag mit Kombination übersteuerbar und nicht übersteuerbar"
+        },
+        {
+          "summary" : "Unendlicher Knight Rider beim Einstieg"
+        },
+        {
+          "summary" : "Index-File ist nicht mehr korrekt aufgebaut, nachdem Additional Information eingeführt wurde."
+        },
+        {
+          "summary" : "Übersteuerbare Meldung erscheint nicht -> z.B. Hong Kong."
+        },
+        {
+          "summary" : "Beim Visieren eines Listenauftrages ohne Berechtigung"
+        },
+        {
+          "summary" : "Falsche Anzahl beim Annullierungsscreen Listenauftrag"
+        },
+        {
+          "summary" : "Druck Listenauftrag Börse"
+        },
+        {
+          "summary" : "Kennzeichnung auf der Börsenauftragsübersicht für Listenaufträge unterschiedlich darstellen"
+        },
+        {
+          "summary" : "Listenauftrag: Limiten werden beim Wechsel des Typs nicht gelöscht"
+        },
+        {
+          "summary" : "Listenauftrag - Übertragung von Anzahl Feld"
+        },
+        {
+          "summary" : "Listenauftrag - Feld Auslöselimite kann nicht abgefüllt werden"
+        },
+        {
+          "summary" : "Listenkauf Börse - Kommunikationsfehler"
+        },
+        {
+          "summary" : "Festgeld - Cache auf dem Application Server"
+        },
+        {
+          "summary" : "Meldung beim Wechsel von Visum 1 auf Visum 2"
+        },
+        {
+          "summary" : "Statuswechsel auf Abgelehnt und wieder zurück"
+        },
+        {
+          "summary" : "Änderung eines Auftrages sollte mit Erfasserrechten im Client nicht aktiviert sein."
+        },
+        {
+          "summary" : "Annullierung funktioniert nicht mehr"
+        },
+        {
+          "summary" : "Aktive Aktionen sind falsch, wenn Benutzer keine Kundenberechtigung hat"
+        },
+        {
+          "summary" : "Erfassung BOE-Auftrag ohne Kundenberechtigung -> keine Ausrufezeichen vor Konto\/Portfolio"
+        },
+        {
+          "summary" : "Kopieren eines Börsenauftrages: Gültig bis Datum wird nicht übernommen"
+        },
+        {
+          "summary" : "Limitenvalidierung bei stop loss\/buy limit findet nicht statt"
+        },
+        {
+          "summary" : "Anpassung des Admin Tools für die verschiedenen Kontoarten"
+        },
+        {
+          "summary" : "Implementation Client"
+        },
+        {
+          "summary" : "Verlängerung eines Festgeldauftrages funktioniert nicht"
+        },
+        {
+          "summary" : "Erfassung eines Festgeldauftrages funktioniert nicht."
+        },
+        {
+          "summary" : "e-Post: Dokumente mit Vermerk 'Kopie' werden nicht als Kopie gekennzeichnet."
+        },
+        {
+          "summary" : "e-Post: Bei Kunden die durch mehrere Verträge und\/oder Servicestämme verwaltet werden, werden die Felder Bearbeitet am\/von nicht nachgeführt."
+        },
+        {
+          "summary" : "Problem bei der Erfassung von Börsenaufträgen für ZH Kunden"
+        },
+        {
+          "summary" : "Geldmarktbestandesliste kann mit einer Kundengruppe nicht angezeigt werden."
+        },
+        {
+          "summary" : "Indexfile bei Download der e-Feed dokumente erstellen"
+        },
+        {
+          "summary" : "Erfassung Börsenaufträge mit abgeschaltetem JMID PlugIn"
+        },
+        {
+          "summary" : "VVW: Bei geöffnetem Detailfenster kann die VVw-Applikation nicht minimiert\/verschoben werden."
+        },
+        {
+          "summary" : "VVW: Detailfenster einer e-Nachricht soll vergrössert\/verkleinert werden können."
+        },
+        {
+          "summary" : "VVw: Beim Relogin wird beim Öffnen der Vertragsverwaltung (aus der Taskleiste) die archivierten Nachrichten angezeigt."
+        },
+        {
+          "summary" : "e-Post: Im e-Post-Menu soll Bestellung Vermögens- und Kontoauszug e-Bestellung Vermögens- und Kontoauszug heissen."
+        },
+        {
+          "summary" : "e-Post: In der Übersicht sind die Spalten Datum und Typ nicht obligatorisch."
+        },
+        {
+          "summary" : "e-Post: Textressourcen anpassen Datumsuche: von niemandem gelesen:"
+        },
+        {
+          "summary" : "Erfassung eines Listenauftrages erscheint die Fehlermeldung \"Depostelle für diesen Valor nicht gefunden\""
+        },
+        {
+          "summary" : "Ändern eines Börsenauftrages mit Visum 2 nötig"
+        },
+        {
+          "summary" : "Fehlermeldung erscheint 2x"
+        },
+        {
+          "summary" : "Fehler beim Bearbeiten der OTMS Reply"
+        },
+        {
+          "summary" : "Out of Memeory Problem auf Testsystem"
+        },
+        {
+          "summary" : "Dauerauftrag wird ausgeführt, obwohl das Kundenrecht Zahlungsverkehr nicht gesetzt ist"
+        },
+        {
+          "summary" : "OTMS Auftrag entgegengenommen trotz abgeschaltetem Validation Server"
+        },
+        {
+          "summary" : "Kein Dialog bei overrulePossible-false, validationFailed-true"
+        },
+        {
+          "summary" : "Grants für dev$XXX Benutzer"
+        },
+        {
+          "summary" : "Anzahl eFeed Dokumente pro Tag als Statistikwert aufnehmen"
+        },
+        {
+          "summary" : "Logik der Mehrfachselektion und Speicherung auch auf die Bestellungsübersicht übernehmen."
+        },
+        {
+          "summary" : "Schnittstelle anpassen, damit Servicestämme direkt mit Hauptvertrag verknüpft werden. Nötig für e-Post Zustellung"
+        },
+        {
+          "summary" : "e-Feed Type wird falsch geliefert - überall wird die 2 -Belastungsanzeige geliefert"
+        },
+        {
+          "summary" : "Überwachung OTMS PlugIn"
+        },
+        {
+          "summary" : "Die Suche nach der Kontonummer funktioniert bei einer 5-stelligen Stammnummer nicht"
+        },
+        {
+          "summary" : "Kunden Zuweisung (Zuordnung funktioniert nicht, wenn Spalten sortiert sind)"
+        },
+        {
+          "summary" : "e-Post Übersicht Datumssuche: Defaultwerte werden nicht übernommen"
+        },
+        {
+          "summary" : "Unterschiedlicher Dialog bei der Speicherung von e-Post"
+        },
+        {
+          "summary" : "Bearbeitungsdatum wird in der ePost Übersicht nicht angezeigt (nur bei bestimmten Kunden)"
+        },
+        {
+          "summary" : "Typ wird in der Übersicht falsch angezeigt."
+        },
+        {
+          "summary" : "Client ruft bei Doppelklick i.d. eFeed Übersicht den Service 2mal auf"
+        },
+        {
+          "summary" : "IBAN wird bei Auslandszahlung beim Anzeigen nicht angezeigt."
+        },
+        {
+          "summary" : "e-Feed - Auf dem Homescreen wird die Info über die neuen e-Post-Dokumente nicht angezeigt."
+        },
+        {
+          "summary" : "Zahlungsmasken lassen sich nicht öffnen, wenn der Kunde nur ein Sparkonto hat"
+        },
+        {
+          "summary" : "Client-Side Implementation für Triggerkurs"
+        },
+        {
+          "summary" : "Server-Side Implementation für Triggerkurs"
+        },
+        {
+          "summary" : "Zuweisung Hauptvertrag zu Untervertrag - MultiSelect instead of SingleSelect possible"
+        },
+        {
+          "summary" : "eFeed PL\/SQL Prozeduren für synchronize, cleanup und delete"
+        },
+        {
+          "summary" : "Bei der Swift\/BIC-Suche mit Branchcode XXX wird kein Ergebnis ausgegeben."
+        },
+        {
+          "summary" : "Server-side implementation der eFeed services (find, get, delete)"
+        },
+        {
+          "summary" : "Löschen von Bestellungen Clientseitig implementieren"
+        },
+        {
+          "summary" : "DTA - Bei der Suche einer fehlenden BLZ von DE wird kein Ergebnis ausgegeben"
+        },
+        {
+          "summary" : "Client-Side Implementation eFeed"
+        },
+        {
+          "summary" : "eStart: businsessmodel.jar fahlt in seltenen fällen nach dem Update"
+        },
+        {
+          "summary" : "Konto mit Nullbeständen werden im e-banking nicht mehr angezeigt."
+        },
+        {
+          "summary" : "Server-Side Implementation für Verarbeitung der Messages aus QA_EBA_EFEED"
+        },
+        {
+          "summary" : "Übersicht für Bestellung soll nur noch Konto- und Vermögensauszug enthalten"
+        },
+        {
+          "summary" : "Server-Side Implementation zur Erweiterung des Homescreen - Anzahl neue eFeed Dokumente"
+        },
+        {
+          "summary" : "Definition der eFeed Defaultwerte (true\/false) für Vertrags-, Kunden- und Benutzerrecht"
+        },
+        {
+          "summary" : "Implementation Vertrags-, Kunden- und Benuterrecht für eFeed"
+        },
+        {
+          "summary" : "Service BesrService.getRuns wird nach dem Download von BESR Daten nicht mehr aufgerufen"
+        },
+        {
+          "summary" : "Berechtigungsfehler wenn Benutzerrecht für BESR nicht vorhanden ist"
+        },
+        {
+          "summary" : "HTTP-Request des Clients darf neu nicht \"anonymous\" sondern muss benutzerbezogen sein."
+        },
+        {
+          "summary" : "Valorensuche - Valor wurde nicht gefunden"
+        },
+        {
+          "summary" : "Kunde kann keine Zahlung erfassen"
+        },
+        {
+          "summary" : "Anpassung der PL\/SQL Prozedur check_expired_order"
+        },
+        {
+          "summary" : "Exception processing JMS Message for MDB StockMarketOrderStatusMDBean"
+        },
+        {
+          "summary" : "Slow Service public Message[] getMessages(MessageId[] ids)"
+        },
+        {
+          "summary" : "Wieder Kommunikationsfehler"
+        },
+        {
+          "summary" : "Bestätigungsmeldung für Bestellung Rote EZS und Broschüre"
+        },
+        {
+          "summary" : "BesrDataImpl does not implement the InstanceIdentifiable interface"
+        },
+        {
+          "summary" : "Stockmarket und Payment Status Diagramme überprüfen"
+        },
+        {
+          "summary" : "Komische Fehlermeldungen im Client Logfile"
+        },
+        {
+          "summary" : "Fehlermeldung bei BESR abholen Maske"
+        },
+        {
+          "summary" : "OutOfMemory-Problem auf Testsystem beim deployen"
+        },
+        {
+          "summary" : "Begünstigter wird nicht gespeichert bei ESR Zahlungsmasken (orange\/blaue Einzahlungsscheine)"
+        },
+        {
+          "summary" : "Nachricht eines Benutzers"
+        },
+        {
+          "summary" : "Mehrfachselektion und diverse Funktionen"
+        },
+        {
+          "summary" : "Über die Funktion \"Zahlung über Lesestift erfassen\" können Sparkonto ausgewählt werden."
+        },
+        {
+          "summary" : "LoginService.updateLogin - Update failed"
+        },
+        {
+          "summary" : "Börsenauftrag Kauf - Bestand - Kundengruppe"
+        },
+        {
+          "summary" : "Erklärungen zu Begriffen MWR, TWR"
+        },
+        {
+          "summary" : "Börsenauftrag mit OTMS Fehler funktioniert nicht"
+        },
+        {
+          "summary" : "VVW Reihenfolge der aufgeschalteten Kunden ist nicht der Nummer nach aufsteigend."
+        },
+        {
+          "summary" : "Fehlermeldung e-Start"
+        },
+        {
+          "summary" : "Duplikatwarnung"
+        },
+        {
+          "summary" : "DTA Fehlt bei einem TA826 der Record 03 (Begünstigtenangaben) wird falsche Fehlermeldung ausgegeben."
+        },
+        {
+          "summary" : "Darstellung % Zahl in der Performance"
+        },
+        {
+          "summary" : "Visieren von Börsenaufträgen"
+        },
+        {
+          "summary" : "In Asset overview ist die Spalte Einstandswert in Kundenwährung beschriftet mit Purchase price in currency of denomination anstelle Purchase value in currency of denomination"
+        },
+        {
+          "summary" : "Daueraufträge DAA der am Freitag eröffnet wird und Ausführungsdatum zurückgesetzt wird, wird nicht ausgeführt."
+        },
+        {
+          "summary" : "Listenkauf funktioniert nicht - ValidationException: unable to resolve reference"
+        },
+        {
+          "summary" : "Ausführen Knopf beim Börsenauftrag funktioniert nicht immer....Action ignored"
+        },
+        {
+          "summary" : "DTA - In der DTA-Auftragsübersicht wird der Status des Auftrages nicht nachgeführt."
+        },
+        {
+          "summary" : "Fehler bei Bestellung Zürcher Vermögensauszüge"
+        },
+        {
+          "summary" : "NullPointerException in OrderStoreServicesImpl.createMessageText"
+        },
+        {
+          "summary" : "Fehler bei der Entgegennahme des Dokumentes aus der Queue"
+        },
+        {
+          "summary" : "ERROR LogDataFullExtDAOOracleImpl  - failed to insert statement"
+        },
+        {
+          "summary" : "Erhalte vermehr Kommunikationsfehler auf dem Testsystem..."
+        },
+        {
+          "summary" : "Nur eine Aktion war möglich"
+        },
+        {
+          "summary" : "DTA - Je nach TA's werden unterschiedl. Defaultdatum verwendet."
+        },
+        {
+          "summary" : "OrderLoadMDBean throws EBO exception"
+        },
+        {
+          "summary" : "Fehler im eStart"
+        },
+        {
+          "summary" : "Abonnieren BESR funktioniert nicht"
+        },
+        {
+          "summary" : "Bestellung Vermögensauszug - Massenbestellung"
+        },
+        {
+          "summary" : "Bestellung Kontoauszug - Fehlermeldung"
+        },
+        {
+          "summary" : "Systemeinstellungen werden nicht übernommen"
+        },
+        {
+          "summary" : "Client Einstellungen werden nicht i.d. DB gespeichert"
+        },
+        {
+          "summary" : "Nachricht an Benutzer erfassen funktioniert nicht"
+        },
+        {
+          "summary" : "Leere Kundengruppe funktioniert nicht richtig"
+        },
+        {
+          "summary" : "Login - Falscher Matrixkarten Code"
+        },
+        {
+          "summary" : "Fehlermeldung: \"Sie haben keine Berechtigung diese Aktion durchzuführen\""
+        },
+        {
+          "summary" : "Client erhaelt bei BESR Download Funktion zwei Streams (ESR\/LSV)"
+        },
+        {
+          "summary" : "Server muss ESR\/LSV Gutschriften getrennt ablegen und liefern"
+        },
+        {
+          "summary" : "Anpassung Schnittstelle BESR"
+        },
+        {
+          "summary" : "Auslieferung LSV+ Gutschriften"
+        },
+        {
+          "summary" : "Validierungstexte bei Bestellung Vermögensauszug"
+        },
+        {
+          "summary" : "Client Implementation zur Anzeige der Fälligkeiten"
+        },
+        {
+          "summary" : "Implementation server-side Service für Fälligkeiten"
+        },
+        {
+          "summary" : "Vermögensmatrix - Währungsübersicht - Falsche Darstellung der Währung"
+        },
+        {
+          "summary" : "Report Gesamtüberblick: Übersicht Währungen wird der Marktwert in CHF dargestellt anstatt in der Kundenwährung"
+        },
+        {
+          "summary" : "Eliminieren von Steuerzeichen in Zahlungstransaktionen"
+        },
+        {
+          "summary" : "Anpassung Schnittstelle für Verfall (drop calend_expiry - fill e_maturity_date)"
+        },
+        {
+          "summary" : "Anzeige der Fälligkeiten"
+        },
+        {
+          "summary" : "Diverse Anpassungen beim Dauerauftrag"
+        },
+        {
+          "summary" : "Neuer Update Win 98"
+        },
+        {
+          "summary" : "Passwort ändern beim ersten Login"
+        },
+        {
+          "summary" : "Fehler beim Erstellen von neuen Benutzern"
+        },
+        {
+          "summary" : "Fehlermeldung bei Falschlogin"
+        },
+        {
+          "summary" : "Uhrzeiten in der Börsen und ZV-Auftragsübersichten"
+        },
+        {
+          "summary" : "Auf dem Welcome Screen wird die Zeit des letzten Logins nicht angegeben."
+        },
+        {
+          "summary" : "Fehler auf der Entwicklungsumgebung Stand: 13.6.06"
+        },
+        {
+          "summary" : "Weitere Characters prüfen und ersetzen für SIC\/Swift"
+        },
+        {
+          "summary" : "Tabelle\/View(s) für Valorenkurs in SecurityAccountPosition"
+        },
+        {
+          "summary" : "Schnittstelle für Valorenkurs in SecurityAccountPosition"
+        },
+        {
+          "summary" : "Erweiterung Bankenverzeichnis im VPBEBA Schema"
+        },
+        {
+          "summary" : "Vermögensübersicht wird nicht vollständig angezeigt"
+        },
+        {
+          "summary" : "Börsenplätze sollten in der Valorensuche eingeschränkt werden können"
+        },
+        {
+          "summary" : "Stream corrupted exception beim Starten von e-Banking"
+        },
+        {
+          "summary" : "Anpassung Services\/Authorization für ZV"
+        },
+        {
+          "summary" : "Definition DB Änderungen für Kontoübertrag Sparkonto"
+        },
+        {
+          "summary" : "Sparkonto Übertrag (ZV Berechtigung auf Kontoart erweitern)"
+        },
+        {
+          "summary" : "Bei Änderung einer Bankzahlung Inland von CHF auf EUR wird die BC-Nr. nicht mehr geprüft ob EUR-SIC ja\/nein"
+        },
+        {
+          "summary" : "Beim Ändern einer Bankzahlung Inland Fremdwährung wird die Zahlung auf der DB von 7 auf 4 geändert."
+        },
+        {
+          "summary" : "Upgrade von Netstart"
+        },
+        {
+          "summary" : "WebSphere Konfiguration Produktion"
+        },
+        {
+          "summary" : "DTA-Zahlungen mit untersch. Valuta im gleichen File können nicht gelöscht oder geändert werden."
+        },
+        {
+          "summary" : "Definition Inhalt der neuen eFeed-Tabelle"
+        },
+        {
+          "summary" : "Definition Schnittstelle für eFeed"
+        },
+        {
+          "summary" : "Client-Side Implementation für Anzeige Performance"
+        },
+        {
+          "summary" : "Server-Side Implemenation für Anzeige Performance"
+        },
+        {
+          "summary" : "Definition\/Anpassung Schnittstelle für Anzeige der Performance"
+        },
+        {
+          "summary" : "Anzeige Performance im eBanking"
+        },
+        {
+          "summary" : "Client-Side Implementation zur Übersteuerung der OTMS Fehler"
+        },
+        {
+          "summary" : "Server-Side Implementation zur Übersteuerung der OTMS Fehler"
+        },
+        {
+          "summary" : "Archivierung der alten Aufträge"
+        },
+        {
+          "summary" : "Server-Side Implementation für Archivierung"
+        },
+        {
+          "summary" : "ePost\/eFeed - elektronische Postzustellung"
+        },
+        {
+          "summary" : "Bei Erfassung Bankzahlung Ausland zg. CH\/LI-Bank mit IBAN wird eine Bankzahlungausland (Art=7) generiert."
+        },
+        {
+          "summary" : "Bankzahlung Ausland: Flag automatisch auf IBAN setzen"
+        },
+        {
+          "summary" : "Zustelladresse beim roten Einzahlungsschein obligatorisch machen."
+        },
+        {
+          "summary" : "PLZ 1099 markiert das Feld Ort als Fehler bei Oranger und Roter Einzahlungsschein"
+        },
+        {
+          "summary" : "Benutzeridentifikation auf 8 Zeichen beschränken"
+        },
+        {
+          "summary" : "Sortierung in der Vermögensübersicht"
+        },
+        {
+          "summary" : "Definition Schnittstelle für Börsenaufträge - Validierung"
+        },
+        {
+          "summary" : "OTMS Erweiterung - Validierung soll durch Benutzer übersteuert werden"
+        },
+        {
+          "summary" : "Beim erstellen eines neuen Benutzerks kann eine zu lange Benutzeridentifikation gewählt werden."
+        },
+        {
+          "summary" : "Definition Schnittstelle für Archivierung"
+        },
+        {
+          "summary" : "Archivierung von Aufträgen"
+        },
+        {
+          "summary" : "Implementation Client Screens für Bestellung Vermögensübersicht"
+        },
+        {
+          "summary" : "Implementation DB\/Services\/SecurityEngine für Bestellung Vermögensübersicht"
+        },
+        {
+          "summary" : "Implementation Schnittstelle\/Services für Bestellungen"
+        },
+        {
+          "summary" : "Definition DB Änderungen für Bestellung Vermögensübersicht"
+        },
+        {
+          "summary" : "Definition Schnittstelle für Bestellungen"
+        },
+        {
+          "summary" : "Anpassung Bestellung Vermögensübersicht"
+        },
+        {
+          "summary" : "setPreferences ist immer noch fehlerhaft"
+        },
+        {
+          "summary" : "Ausgeführte Zahlungen  sollen neu erst nach 16 Monaten anstelle von 12 Monaten logisch gelöscht werden."
+        },
+        {
+          "summary" : "Client ruft setPreferences mehrfach auf"
+        },
+        {
+          "summary" : "Cleanup Job: Zahlungsaufträge welche durch Daueraufträge ausgelöst wurden müssen nach 24 Monaten gelöscht werden."
+        },
+        {
+          "summary" : "Zürcher Kunden die an einen LI-e-banking-Vertrag angehängt werden, werden nicht automatisch zugeteilt."
+        },
+        {
+          "summary" : "Workaround für Direct Deal"
+        },
+        {
+          "summary" : "Erfassung eines Auftrages während dem Full Load"
+        },
+        {
+          "summary" : "MQ - Fehlermeldung für OTMS Order Reply"
+        },
+        {
+          "summary" : "Pfad-Einstellungen werden zurückgesetzt auf Default c:\\programme\\vpbank\\..."
+        },
+        {
+          "summary" : "BESR - Reihenfolge von Datum und Uhrzeit von bereits abgeholten BESR-Daten ist aufsteigend."
+        },
+        {
+          "summary" : "Erfassung eines Börsenauftrages mit Gegenwert anstatt mit einer Anzahl"
+        },
+        {
+          "summary" : "Build und Deploy-Prozess erstellen"
+        },
+        {
+          "summary" : "Compass Review"
+        },
+        {
+          "summary" : "Beim erstellen eines neuen Benutzerks kann eine zu lange Benutzeridentifikation gewählt werden."
+        },
+        {
+          "summary" : "Verlaengerung von Geldmarktauftraegen"
+        },
+        {
+          "summary" : "Cache in der Valorensuche"
+        },
+        {
+          "summary" : "Boersenauftraege mit Kollektiv koennen am Folgetag nicht mehr visiert werden."
+        },
+        {
+          "summary" : "Listenverkauf konnte nicht visiert werden"
+        },
+        {
+          "summary" : "Listenverkauf funktioniert nicht, wenn der Benutzer nicht Boersenrecht fuer alle Kunden hat."
+        },
+        {
+          "summary" : "Beim visieren von Boersen-Lisenauftraegen werden alle Auftraege visiert"
+        },
+        {
+          "summary" : "Fehler beim Runden\/Abschneiden von Nominalwerten in Depotpositionen"
+        },
+        {
+          "summary" : "Mehrere Boersenauftraege visieren gibt keine Fehlermeldung bei abgelehnten Auftraegen"
+        },
+        {
+          "summary" : "Kontextmenu Kauf von Boersenauftraege ist aktiv obwohl keine Berechtigung"
+        },
+        {
+          "summary" : "Boersenauftragsbestaetigung bei Visum notwendig"
+        },
+        {
+          "summary" : "Boersenauftraege die verfallen sind und Valor 999.999 haben werden immer wieder im Fullload geliefert."
+        },
+        {
+          "summary" : "Auftraege mit Valor 999.999 NEUER VALOR sollen mit dem richtigen Valor ergaenzt werden"
+        },
+        {
+          "summary" : "Listenauftrag - Auswahl kongruente Waehrung zu Titelwaehrung funktioniert nicht"
+        },
+        {
+          "summary" : "Ausfuehrung Dauerauftraege - Dauerauftraege mit Ausfuehrungsdatum 25.2.06 (Samstag) wurden nicht ausgefuehrt."
+        },
+        {
+          "summary" : "Dauerauftrag - Aenderung von Ausfuehren am-Feld moeglich."
+        },
+        {
+          "summary" : "PLZ 1099 markiert das Feld Ort als Fehler bei Oranger und Roter Einzahlungsschein"
+        },
+        {
+          "summary" : "PC-Zahlungen zg Bank werden als Postzahlung (1) an ZASY weitergeleitet anstatt als Bankzahlung Inland (4)"
+        },
+        {
+          "summary" : "DTA - korrekte Zahlungen einer fehlerhafte Datei werden in der Zahlungsuebersicht angezeigt"
+        },
+        {
+          "summary" : "DTA - Loeschen von DTA-Auftraegen und DTA-Zahlungen durch Housekeeping ist nicht synchron"
+        },
+        {
+          "summary" : "ZV - Wird bei einer Zahlung ein HEX-Wert kleiner 32 erfasst wird die Zahlung vom Client akzeptiert. Unloader gibt Fehler aus."
+        },
+        {
+          "summary" : "DTA - Housekeeping-Regeln ueberarbeiten. Fehlerhafte DTA-Auftraege werden geloescht. Die Zahlungen bleiben aber in ZV-Uebersicht"
+        },
+        {
+          "summary" : "Ausdruck Gutschriftsanzeige - Auftraggeber hat 4-eckige kaestchen als return drin"
+        },
+        {
+          "summary" : "DTA Wird ein DTA-File mit falscher Auftraggeber-BC-Nr. geliefert, wird der Auftrag fehlerhaft und die Zahlung korrupt ausgegeben."
+        },
+        {
+          "summary" : "DTA - Je nach TA's werden unterschiedl. Defaultdatum verwendet."
+        },
+        {
+          "summary" : "DTA-TA826: Ist die BC-Nr. Auftraggeberbank nicht 8805 wird Fehler ausgegeben, Auftrag ist fehlerhaft die Zahlung aber korrupt."
+        },
+        {
+          "summary" : "DTA - TA826: Bei Waehrung EUR statt CHF wird Meldung: Bei der Bearbeitung der DTA-Datei ist ein unerwarteter Fehler aufgetreten."
+        },
+        {
+          "summary" : "Logdaten fuer Service createPaymentOrder fehlerhaft"
+        },
+        {
+          "summary" : "Aendern von Dauerauftrag- Oranger und Blauer EZ"
+        },
+        {
+          "summary" : "DTA - TA836 ohne BIC aber mit Bankangaben in Zeile 2 Zahlung bleibt haengen mit Status 200"
+        },
+        {
+          "summary" : "DA abaendern mit Erfasserberechtigung"
+        },
+        {
+          "summary" : "Dauerauftrag falsche Anzahl Ausfuehrungen werden angezeigt"
+        },
+        {
+          "summary" : "Bankzahlung Ausland: Falls BIC Code leer..."
+        },
+        {
+          "summary" : "DTA - TA826: Bei falscher Ref-Zeile wird bei der Korrektur im Client anders reagiert."
+        },
+        {
+          "summary" : "DTA - TA836: Zahlung ohne Bankangaben bei DE und AT-Banken soll BLZ aus IBAN verwendet werden"
+        },
+        {
+          "summary" : "DTA - Zahlungen im Detail bei TA827 ist der Ausfuehren-Knopf immer aktiv."
+        },
+        {
+          "summary" : "DTA - TA827 Postzahlung zG. Bank:Wird eine PC-Nr. einer NICHT BC-Bank verwendet, wird Endbeguenstigter als Kto-Inhaber eingesetzt"
+        },
+        {
+          "summary" : "Zustelladresse beim roten Einzahlungsschein obligatorisch machen."
+        },
+        {
+          "summary" : "Erfassung einer Geldmarktverlaengerung obwohl keine Berechtigung gesetzt."
+        },
+        {
+          "summary" : "Häufige getSystemTime abfragen des clients"
+        },
+        {
+          "summary" : "Entfernen von Kunde aus Kundenliste funtionert nicht"
+        },
+        {
+          "summary" : "Homescreen - Aktualisieren Knopf inaktiv"
+        },
+        {
+          "summary" : "Grosse Datenmengen werden nicht uebertragen, Knight-Rider bewegt sich weiter"
+        },
+        {
+          "summary" : "Passwortfelder einschraenken auf 15 Zeichen in Extras\/Passwort aendern"
+        },
+        {
+          "summary" : "Netstart Update Status Bar auf 100%"
+        },
+        {
+          "summary" : "Tooltip auf Tabellenspalten, wenn nicht die vollstaendige Spalte angezeigt wird"
+        },
+        {
+          "summary" : "Falscher Valorenkurs in SecurityAccountPosition"
+        },
+        {
+          "summary" : "IBAN auf dem roten Einzahlungsschein"
+        },
+        {
+          "summary" : "ClassCastException in AssetInformationDOImpl"
+        },
+        {
+          "summary" : "Visieren eines Listenauftrages"
+        },
+        {
+          "summary" : "Status abgelaufen überschreiben (im Full Load) wenn das Feld OTMS Price gesetzt ist"
+        },
+        {
+          "summary" : "Change web.xml\/ejb-jar.xml files (JDBC resource reference)"
+        },
+        {
+          "summary" : "PL\/SQL procedure check_expired_order (bug in weekend days)"
+        },
+        {
+          "summary" : "Update path to WebSphere AS 5.1.x installation"
+        },
+        {
+          "summary" : "Update deploy.properties (SecurityEngine DB move from EBAPDB -> EBASEC)"
+        },
+        {
+          "summary" : "Update classpath for LogLoader"
+        },
+        {
+          "summary" : "BenutzerID -> Leerzeichen können erfasst werden"
+        },
+        {
+          "summary" : "Überarbeitung von NetStart"
+        },
+        {
+          "summary" : "Setup Entwicklungsumgebung in Vaduz"
+        },
+        {
+          "summary" : "Migrate repository CVS to Subversion"
+        },
+        {
+          "summary" : "Upgrade Netport"
+        },
+        {
+          "summary" : "Upgrade Security Engine"
+        },
+        {
+          "summary" : "Upgrade EBO Suite"
+        },
+        {
+          "summary" : "Migration WebSphere 5.0 -> 5.1 (upgrade JAVA 1.3.x -> 1.4.x server-side)"
+        },
+        {
+          "summary" : "Migrate bugs from scarab to jira"
+        },
+        {
+          "summary" : "DB Rechner: Ausbau CPU und Memory"
+        },
+        {
+          "summary" : "Kunde kann DA nicht ändern (Wechsel Belastungskonto)"
+        },
+        {
+          "summary" : "Raiffeisen Austria RZBMRUMMXXX fehlt plötzlich im SWIFT Stamm"
+        },
+        {
+          "summary" : "VVW: Druckfunktion Matrix\/PWD sollte für Liechtenstein und ZH gleichzeitig möglich sein"
+        },
+        {
+          "summary" : "VVW: Beim Kommentieren sollte der Button \"Speichern\" heissen statt \"Senden\""
+        },
+        {
+          "summary" : "Kontextmenüfunktionen bei e-Vermögensauszügen fehlen"
+        },
+        {
+          "summary" : "Homescreen: Test für e-Post, \"neue\" streichen"
+        },
+        {
+          "summary" : "VVW: Kontextmenü beim Sperren eines Benutzers aktualisieren"
+        },
+        {
+          "summary" : "e-Post Menüeintrag sichtbar auch wenn die Berechtigung fehlt"
+        },
+        {
+          "summary" : "Anzahl wrong logins in VVW anzeigen"
+        },
+        {
+          "summary" : "Umbau Vertragssuche auf neue Architektur"
+        },
+        {
+          "summary" : "Wechsel von Postzustellung auf Banklagernd soll nicht möglich sein"
+        },
+        {
+          "summary" : "Release Notes 2.11 ins grounet stellen"
+        },
+        {
+          "summary" : "Online Hilfe auf 2.11 anpassen"
+        },
+        {
+          "summary" : "Nach dem Löschen der Nachrichten bekomme ich immer noch die Meldung \"Sie haben xx neue Nachrichten\""
+        },
+        {
+          "summary" : "Schema EBASTATS auf Test und Entwicklung erstellen"
+        },
+        {
+          "summary" : "Externe Überwachung durch sysformance"
+        },
+        {
+          "summary" : "Client Verhalten bei Unterbrüchen"
+        },
+        {
+          "summary" : "Testfall: Neuer e-banking Vertrag im Penta erfasst"
+        },
+        {
+          "summary" : "Bei Erfassen eines neuen Benutzers wird in den Kundenrechten \"null null\" angezeigt"
+        },
+        {
+          "summary" : "DTA \/ Oranger EZS: Beim korrigieren der Teilnehmernummer (Konto) wird der Endbegünstigte gelöscht"
+        },
+        {
+          "summary" : "Maske Vertragssuche: Umbenennen \"Direktkunde\" in \"e-banking Standard\""
+        },
+        {
+          "summary" : "Zweitvisum nicht möglich"
+        },
+        {
+          "summary" : "Anrede bei der Kontaktperson fehlt in der Adresse für die Zugangsdatenbriefe"
+        },
+        {
+          "summary" : "Beim Antworten in der CM kann ich keine Beilage anhängen"
+        },
+        {
+          "summary" : "Kommentieren funktioniert nicht"
+        },
+        {
+          "summary" : "Symbole für Kunden wurde im Register Kundenrechte geändert"
+        },
+        {
+          "summary" : "Speichern von 200 e-Post Dokumenten funktioniert nicht immer"
+        },
+        {
+          "summary" : "Als Sprache im Druckdialog wird als Default Französisch angeboten"
+        },
+        {
+          "summary" : "Fehlendes Kontextmenü in der Nachrichtenübersicht"
+        },
+        {
+          "summary" : "Zeilenumbruch innerhalb der Telefonnummer beim Brief \"Neue Matrix-Karte\""
+        },
+        {
+          "summary" : "Wenn ich die Shift-Tast gedrückt halte und das Menü Zugangsdatendruck aufrufe wir keine neue Sicht verwendet sondern die aktuelle Sicht"
+        },
+        {
+          "summary" : "Sicherheitseinstellungen bei von uns erzeugten PDFs"
+        },
+        {
+          "summary" : "Bei einem Vertrag ohne Kunden sollte ich trotzdem einen Benutzer erstellen können (oder?)"
+        },
+        {
+          "summary" : "LockingExceptions bei Stockmarket Orders treten regelmässig auf"
+        },
+        {
+          "summary" : "Weshalb finde ich Vertrag 12.710 wenn ich nach 331045 suche?"
+        },
+        {
+          "summary" : "Selektorauswahl bei Standortbenutzer in VVW"
+        },
+        {
+          "summary" : "Leere Zeilen mit Dokumentsymbol bei Vertragssuche"
+        },
+        {
+          "summary" : "Können wir die drei Homescreen Einträge ZA, DA und BA nicht auch verlinken?"
+        },
+        {
+          "summary" : "Uhrzeit im Client rechts unten wird nur alle 10 Minuten nachgeführt"
+        },
+        {
+          "summary" : "Brauchen wir die Tabelle login_group noch? (ist leer)"
+        },
+        {
+          "summary" : "Installation auf Testsystem"
+        },
+        {
+          "summary" : "Nachrichtenübersicht: Teilweise werden auch gesendete Nachrichten im Briefeingang angezeigt"
+        },
+        {
+          "summary" : "Kontextmenüpunkte beim Eintieg auf die Seite \"Dienste abonnieren\""
+        },
+        {
+          "summary" : "Schreibfehler Überschrift \"AbonnementENübersicht\""
+        },
+        {
+          "summary" : "Schnittstellenspezifikation erstellen"
+        },
+        {
+          "summary" : "Suchfunktion in der Vertragsverwaltung sollte auch Kunden finden, nicht nur Vertragsnehmer"
+        },
+        {
+          "summary" : "Zusatzcode bei ungewöhnlichen Zahlungen verlangen"
+        },
+        {
+          "summary" : "Anzeige Handels-Periode beim Erfassen des Börsenauftrages"
+        },
+        {
+          "summary" : "CM-Erweiterung: SecurityEngine Regeln für VVW Matrix"
+        },
+        {
+          "summary" : "Bei der Mitteilungsvorschau kann die Beilage nicht geöffnet werden"
+        },
+        {
+          "summary" : "Anzahl gesendeter Mitteilung in die Statistik aufnehmen"
+        },
+        {
+          "summary" : "VVW: Beim ändern einer Ankündigung wird die Startzeit auf 12:00 Uhr gestellt (statt unverändert gelassen)"
+        },
+        {
+          "summary" : "Fehlermeldung beim abonnieren von BESR"
+        },
+        {
+          "summary" : "Anzahl \"ausgeführter\" Börsenaufträge in die Statistik aufnehmen"
+        },
+        {
+          "summary" : "ISIN, Tickersymbol und Valorennummer in der Börsenauftragsübersicht anzeigen"
+        },
+        {
+          "summary" : "Analyse APF und Vergleich zu ZASY"
+        },
+        {
+          "summary" : "Status Abgelaufen (Expired) bei Börsenaufträgen"
+        },
+        {
+          "summary" : "Avaloq-Seite Anpassungen für Mehrsprachigkeit"
+        },
+        {
+          "summary" : "Client-Side Anpassungen für Mehrsprachigkeit"
+        },
+        {
+          "summary" : "Server-Side Anpassungen für Mehrsprachigkeit"
+        }
+      ]
+    }
+  ]
+}
