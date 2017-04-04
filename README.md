@@ -1,3 +1,4 @@
+## jsonutil
 ```
 Usage:
 
@@ -9,8 +10,9 @@ Commands:
     + pretty - Reads a Json file, prettyfies it and prints it to the console output.
     + replace - Reads a Json file, and replaces all occurences of specified terms in the values of the file and prints it to the console output.
     + filter -
-
-
+```
+### remove
+```
 Usage:
 
     $ .build/debug/jsonutil remove <removefile> <input>
@@ -22,8 +24,9 @@ Arguments:
 
 Options:
     --prettyPrinted [default: false] - pretty printed output
-    
-    
+```    
+### pretty
+```
 Usage:
 
     $ .build/debug/jsonutil pretty <input>
@@ -31,8 +34,9 @@ Usage:
 Arguments:
 
     input - Json file input path
-
-
+```    
+### replace
+```
 Usage:
 
     $ .build/debug/jsonutil replace <replacefile> <input>
@@ -44,8 +48,9 @@ Arguments:
 
 Options:
     --prettyPrinted [default: false] - pretty printed output
-    
- 
+```    
+### remove
+```
 Usage:
 
     $ .build/debug/jsonutil remove <removefile> <input>
