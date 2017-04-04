@@ -11,7 +11,9 @@ Commands:
     + replace - Reads a Json file, and replaces all occurences of specified terms in the values of the file and prints it to the console output.
     + filter -
 ```
+
 ### remove
+
 ```
 Usage:
 
@@ -24,8 +26,10 @@ Arguments:
 
 Options:
     --prettyPrinted [default: false] - pretty printed output
-```    
+```
+
 ### pretty
+
 ```
 Usage:
 
@@ -34,8 +38,10 @@ Usage:
 Arguments:
 
     input - Json file input path
-```    
+```
+
 ### replace
+
 ```
 Usage:
 
@@ -48,8 +54,10 @@ Arguments:
 
 Options:
     --prettyPrinted [default: false] - pretty printed output
-```    
+```
+
 ### remove
+
 ```
 Usage:
 
