@@ -9,13 +9,13 @@
 import Foundation
 
 
-func remove(from json: JSON, patterns: [String]) -> JSON {
+func remove(from json: JSON_OBJ, patterns: [String]) -> JSON_OBJ {
     let paths = patterns.map { Path(path: $0) }
     
     var resultJson = json
     for path in paths {
         //filter out all items matching the defined path
-        //on top level a JSON object as result is expected
+        //on top level a JSON_OBJ object as result is expected
         switch remove(from: resultJson, withPath: path) {
         case .map(let result):
             resultJson = result
@@ -27,13 +27,13 @@ func remove(from json: JSON, patterns: [String]) -> JSON {
 }
 
 fileprivate enum RemoveResult {
-    case array([JSON])
-    case map(JSON)
+    case array([JSON_OBJ])
+    case map(JSON_OBJ)
     case value(Any)
     case notMatched
 }
 
-fileprivate func remove(from json: JSON, withPath: Path) -> RemoveResult {
+fileprivate func remove(from json: JSON_OBJ, withPath: Path) -> RemoveResult {
     //json object with removed result
     var removedJson = json
     var path = withPath
@@ -41,7 +41,7 @@ fileprivate func remove(from json: JSON, withPath: Path) -> RemoveResult {
     if let pathElement = path.elements.first {
         path.dropFirst()
         switch pathElement {
-        //only map patterns are possible on a JSON object
+        //only map patterns are possible on a JSON_OBJ object
         case .map(pattern: let mapPattern):
             switch mapPattern {
                 
@@ -80,16 +80,16 @@ fileprivate func remove(from json: JSON, withPath: Path) -> RemoveResult {
 }
 
 
-fileprivate func remove(fromArray jsonArray: [JSON], withPath: Path ) -> RemoveResult {
+fileprivate func remove(fromArray jsonArray: [JSON_OBJ], withPath: Path ) -> RemoveResult {
     //json object with removed result
-    var removedJsonArray = [JSON]()
+    var removedJsonArray = [JSON_OBJ]()
     
     var path = withPath
 
     if let pathElement = path.elements.first {
         path.dropFirst()
         switch pathElement {
-        //only array patterns are possible on a [JSON] object
+        //only array patterns are possible on a [JSON_OBJ] object
         case .array(pattern: let arrayPattern):
             switch arrayPattern {
             case .all:
@@ -149,10 +149,10 @@ fileprivate func remove(fromArray jsonArray: [JSON], withPath: Path ) -> RemoveR
 
 fileprivate func dispatch(value: Any, path: Path) -> RemoveResult {
     switch value {
-    case let json as JSON:
+    case let json as JSON_OBJ:
         return remove(from: json, withPath: path)
         
-    case let jsonArray as [JSON]:
+    case let jsonArray as [JSON_OBJ]:
         return remove(fromArray: jsonArray, withPath: path)
         
     default:

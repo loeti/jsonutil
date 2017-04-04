@@ -8,30 +8,30 @@
 
 import Foundation
 
-func filter(from json: JSON, patterns: [String]) -> JSON {
+func filter(from json: JSON_OBJ, patterns: [String]) -> JSON_OBJ {
     //create for every pattern line a path object
     let paths = patterns.map { Path(path: $0) }
     
     //filter out all items matching the defined paths
-    //on top level a JSON object as result is expected
+    //on top level a JSON_OBJ object as result is expected
     switch filter(from: json, withPaths: paths) {
     case .map(let resultJson):
         return resultJson
     default:
-        return JSON()
+        return JSON_OBJ()
     }
 }
 
 
 fileprivate enum FilterResult {
-    case array([JSON])
-    case map(JSON)
+    case array([JSON_OBJ])
+    case map(JSON_OBJ)
     case value(Any)
     case notMatched
 }
 
 
-fileprivate func filter(from json: JSON, withPaths paths: [Path]) -> FilterResult {
+fileprivate func filter(from json: JSON_OBJ, withPaths paths: [Path]) -> FilterResult {
     //group all the paths in common path elements for the first path level
     let pathElements = getFirstPathsElements(paths: paths)
     //if no more path elements are defined, return rest of json object
@@ -42,11 +42,11 @@ fileprivate func filter(from json: JSON, withPaths paths: [Path]) -> FilterResul
     let restOfPaths = dropFirstPathsElements(fromPaths: paths)
     
     //json object with filtered result
-    var filteredJson = JSON()
+    var filteredJson = JSON_OBJ()
     
     for pathElement in pathElements {
         switch pathElement {
-        //only map patterns are possible on a JSON object
+        //only map patterns are possible on a JSON_OBJ object
         case .map(pattern: let mapPattern):
             switch mapPattern {
                 
@@ -92,7 +92,7 @@ fileprivate func filter(from json: JSON, withPaths paths: [Path]) -> FilterResul
 }
 
 
-fileprivate func filter(fromArray jsonArray: [JSON], withPaths paths: [Path]) -> FilterResult {
+fileprivate func filter(fromArray jsonArray: [JSON_OBJ], withPaths paths: [Path]) -> FilterResult {
     //group all the paths in common path elements for the first path level
     let pathElements = getFirstPathsElements(paths: paths)
     //if no more path elements are defined, return rest of json object
@@ -103,11 +103,11 @@ fileprivate func filter(fromArray jsonArray: [JSON], withPaths paths: [Path]) ->
     let restOfPaths = dropFirstPathsElements(fromPaths: paths)
     
     //array of json objects with filtered results
-    var filteredJson = [JSON]()
+    var filteredJson = [JSON_OBJ]()
     
     for pathElement in pathElements {
         switch pathElement {
-        //only array patterns are possible on a [JSON] object
+        //only array patterns are possible on a [JSON_OBJ] object
         case .array(pattern: let arrayPattern):
             switch arrayPattern {
             case .all:
@@ -181,10 +181,10 @@ fileprivate func filter(fromArray jsonArray: [JSON], withPaths paths: [Path]) ->
 fileprivate func dispatch(value: Any, paths: [Path]) -> FilterResult {
     
     switch value {
-    case let json as JSON:
+    case let json as JSON_OBJ:
         return filter(from: json, withPaths: paths)
         
-    case let jsonArray as [JSON]:
+    case let jsonArray as [JSON_OBJ]:
         return filter(fromArray: jsonArray, withPaths: paths)
         
     default:
