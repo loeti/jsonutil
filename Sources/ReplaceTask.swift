@@ -29,7 +29,7 @@ func replaceValue(in json: inout JSON_OBJ, searchReplaceMap: [String:String] ) {
             for (replaceKey, replaceValue) in searchReplaceMap {
                 
                 if let range = targetValue.range(of:replaceKey, options: .regularExpression) {
-                    let result = replaceKey.replacingCharacters(in: range, with: replaceValue)
+                    let result = targetValue.replacingCharacters(in: range, with: replaceValue)
                     json[key] = result
                     break
                 }
